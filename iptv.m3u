@@ -14,7 +14,12 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-
+#EXTINF:-1 ,#EXTINF:-1 - 13 MAX TELEFE achoAPPS.com #yomequedoencasa
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/molaTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Mola TV EspaÃ±a",Mola TV EspaÃ±a
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Musicales" tvg-name="Cadena Elite EspaÃ±a",Cadena Elite EspaÃ±a
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 
 #EXTINF:****canales de noticias***
 #EXTINF:-1,DW EspaÃ±ol www.achoAPPS.com
@@ -23,16 +28,20 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 #EXTINF:-1,MTV www.achoAPPS.com
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-
+#EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Musicales" tvg-name="Activa TV EspaÃ±a",Activa TV EspaÃ±a
+https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8
 #EXTINF:****canales de españa***
 #EXTINF:-1,Telemadrid www.achoAPPS.com
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 EXTINF:-1,RTVC Canarias www.achoAPPS.com
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8?fluxustv.m3u8
+#EXTINF:****canales infantil***
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Canal IPe PerÃº",Canal IPe PerÃº
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:****canales de tv de deportes***
 #EXTINF:0 tvg-id="RealMadridTV.sp" group-title="SPORT",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -42,7 +51,6 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:0 tvg-id="ext" group-title="SPORT",alkassone 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-
 #EXTINF:****news***
 #EXTINF:-1,CBS News (Opt-1) www.achoAPPS.com
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -50,21 +58,23 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1,Voice of America (PST) www.achoAPPS.com
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
-
-
 #EXTINF:****canales de colombia***
 #EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106775" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
-
 #EXTINF:****canales de suramerica***
 #EXTINF:-1 tvg-id="113071" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,TVPeru Noticias www.achoAPPS.com
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1,TeleJunin www.achoAPPS.com
-http://stream02.shockmedia.com.ar:1935/telejunin/telejunin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="La Tele Tuya Venezuela",La Tele Tuya Venezuela
+https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/telemicro5/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Telemicro RepÃºblica Dominicana",Telemicro RepÃºblica Dominicana
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/985884346769817602/j3kxxu_y_bigger.jpg" group-title="Int. AmÃ©rica" tvg-name="HCH Honduras",HCH Honduras
+https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Trece Paraguay",Trece Paraguay
+http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 ,ARGENTINA:Canal 26 3
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
 
