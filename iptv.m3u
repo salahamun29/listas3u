@@ -8,6 +8,29 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 , Top Latino Tv  
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1,California Music Channel www.achoAPPS.com
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+#EXTINF:-1,30A Music www.achoAPPS.com
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1,TVG Musigal www.achoAPPS.com
+http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+
+
+#EXTINF:****canales de noticias***
+#EXTINF:-1,DW EspaÃ±ol www.achoAPPS.com
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,Frecuencia Musical (Opt-1) www.achoAPPS.com
+https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+#EXTINF:-1,MTV www.achoAPPS.com
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+
+#EXTINF:****canales de españa***
+#EXTINF:-1,Telemadrid www.achoAPPS.com
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+EXTINF:-1,RTVC Canarias www.achoAPPS.com
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,TVG Infantil www.achoAPPS.com
+http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 
 
 #EXTINF:****canales de tv de deportes***
@@ -19,59 +42,35 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:0 tvg-id="ext" group-title="SPORT",alkassone 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 ,DEPORTES:BFM Sport
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:****news***
+#EXTINF:-1,CBS News (Opt-1) www.achoAPPS.com
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,Newsmax TV www.achoAPPS.com
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,Voice of America (PST) www.achoAPPS.com
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
 
 
-#EXTINF: , ***videos y peliculas***
-#EXTINF:-1,  VOLVER AL FUTURO3
-https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1, El cartero pablo neruda
-https://archive.org/download/ElCarteroYPabloNerudaIlPostinoEnEspanol/El%20Cartero%20y%20Pablo%20Neruda%20%28Il%20postino%29%20en%20Espa%C3%B1ol-SD.mp4
-#EXTINF:-1,Nosotros Los Nobles |
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1,pelicula de accion completa
-https://archive.org/download/mejor-pelicula-de-accion-completa-en-espanol-2019/Mejor%20Pel%C3%ADcula%20de%20Acci%C3%B3n%20Completa%20en%20Espa%C3%B1ol%202019.mp4
+#EXTINF:****canales de colombia***
+#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106775" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
 
-#EXTINF: , ***documentales***
-#EXTINF:-o,  la ley de la atraccion
-https://ia800100.us.archive.org/21/items/ElSecretoLeyDeAtraccinLibroCompletoEspannol/El%20Secreto%20%20Ley%20de%20Atracci%C3%B3n%20%20%20Libro%20Completo%20%20%20Espan%CC%83ol.ogv
-#EXTINF:-o,  de la servidumbre moderna
-https://ia803100.us.archive.org/4/items/DeLaServindumbreModerna/de%20la%20servindumbre%20moderna.ogv
-#EXTINF:-1,  Charlie Chaplin Festival
-https://ia803005.us.archive.org/6/items/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb.mp4
-#EXTINF:-0, comercial tv
-https://ia800701.us.archive.org/20/items/DeSoto5/DeSoto5_512kb.mp4
-#EXTINF:-0, dos minutos de productividad
-https://ia600708.us.archive.org/5/items/2MP039/2MP039.mp4
-#EXTINF:-0, futurama piloto espacial
-https://archive.org/download/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.mp4
-#EXTINF:-0, futurama  ha aterrizado 
-https://archive.org/download/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--02-LaSerieHaAterrizado.mp4
-#EXTINF:-1, dos minutos de productividad el tiempo 
-https://archive.org/download/2MP038/2MP038.mp4
+#EXTINF:****canales de suramerica***
+#EXTINF:-1 tvg-id="113071" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TVPeru Noticias www.achoAPPS.com
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,TeleJunin www.achoAPPS.com
+http://stream02.shockmedia.com.ar:1935/telejunin/telejunin/playlist.m3u8
+#EXTINF:-1 ,ARGENTINA:Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
 
-#EXTINF:-0, futurama piloto espacial
-https://archive.org/download/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.mp4
-#EXTINF:-0, futurama  ha aterrizado 
-https://archive.org/download/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--02-LaSerieHaAterrizado.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20001.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20002.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20003.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20004.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20005.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20006.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20007.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20008.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20009.mp4
-#EXTINF:-0, thundetsr cats
-https://archive.org/download/Ats010/ats%20010.mp4
+
+
+
+
+
+
