@@ -20,6 +20,13 @@ http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Musicales" tvg-name="Cadena Elite EspaÃ±a",Cadena Elite EspaÃ±a
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF:programas individuales
+#EXTINF:-1 el chavo 
+https://ia800807.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1 monterrey
+http://photocall.tv/kS1w/l1?ch=monterrey
+#EXTINF:-1 canal 15
+http://photocall.tv/kS1w/l1?ch=15tv
 
 #EXTINF:****canales de noticias***
 #EXTINF:-1,DW EspaÃ±ol www.achoAPPS.com
@@ -52,15 +59,50 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:0 tvg-id="ext" group-title="SPORT",alkassone 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 #EXTINF:****news***
-#EXTINF:-1,CBS News (Opt-1) www.achoAPPS.com
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,Newsmax TV www.achoAPPS.com
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1,Voice of America (PST) www.achoAPPS.com
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 rt es
+http://photocall.tv/kS1w/l1?ch=rt_es
+#EXTINF:-1, france 24
+http://photocall.tv/kS1w/l1?ch=fr24_es
+#EXTINF:-1, dw es
+http://photocall.tv/kS1w/l1?ch=dw_es
+#EXTINF:-1, bloobert finaciero
+http://photocall.tv/kS1w/l1?ch=b_mx
+#EXTINF:-1, televisora nacional de panama max
+http://photocall.tv/kS1w/l1?ch=tvmax
+#EXTINF:-1, televisora nacional de panama
+http://photocall.tv/kS1w/l1?ch=tvn_panama
+#EXTINF:-1, italia 1
+http://photocall.tv/kS1w/msi?ch=italia1
+#EXTINF:-1, mexico vide
+http://photocall.tv/kS1w/l1?ch=vibetv
+#EXTINF:-1, mega tv
+http://photocall.tv/kS1w/l1?ch=megatv
+#EXTINF:-1, telemundo new york
+http://photocall.tv/kS1w/l1?ch=tm_ny
+#EXTINF:-1, telemundo miami
+http://photocall.tv/kS1w/l1?ch=tm_mi
+#EXTINF:-1, canal 44 mx
+http://photocall.tv/kS1w/yt?ch=c44
+#EXTINF:-1, canal once mx
+http://photocall.tv/kS1w/l1?ch=once_int
+
+#EXTINF:-1, cdmx
+http://photocall.tv/kS1w/l1?ch=cdmx
+#EXTINF:-1, telemundo
+
+#EXTINF:-1, telemundo
+#EXTINF:-1, BBC word
+http://photocall.tv/kS1w/ftv?ch=bbcworld
 #EXTINF:****canales de colombia***
-#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 nacionales colombia
+#EXTINF:-1  tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
+https://cdn.chatytvgratis.net/caracoltabs.php?width=1280&height=720
+#EXTINF:-1 canal uno
+http://photocall.tv/kS1w/l1?ch=canal1
+#EXTINF:-1 canal cnc
+http://photocall.tv/kS1w/l1?ch=canalcnc
+
 #EXTINF:-1 tvg-id="106775" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:****canales de suramerica***
