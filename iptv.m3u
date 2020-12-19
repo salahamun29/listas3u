@@ -54,6 +54,10 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:0 tvg-id="ext" group-title="SPORT",alkassone 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="" tvg-name="Ali vs Liston boxeo"
+https://ia903209.us.archive.org/32/items/MuhammadAliVsSonnyListon/MuhammadAliVsSonnyListon_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="final de l mundia mexico Brasil vs Italia"
+https://ia800701.us.archive.org/0/items/BrasilXItalia-FinalMexico1970/Wc-70FinalBrazil-italy.mp4
 #EXTINF:****news***
 #EXTINF:****canales de colombia***
 EXTINF:-1 nacionales colombia
