@@ -1,72 +1,71 @@
-#EXTM3U
-#EXTINF:-1 , *** pelicula clasicas***
+# EXTM3U
+#EXTINF: -1, *** pelicula clasicas ***
 https://ia801309.us.archive.org/32/items/CuentaAtrs_20151209/Cuenta%20atr%C3%A1s.mp4
-#EXTINF:-1, El cartero pablo neruda tvg-id="films" ,films tvg-logo=” https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pablo_Neruda_1963.jpg/220px-Pablo_Neruda_1963.jpg"
-https://archive.org/download/ElCarteroYPabloNerudaIlPostinoEnEspanol/El%20Cartero%20y%20Pablo%20Neruda%20%28Il%20postino%29%20en%20Espa%C3%B1ol-SD.mp4
-#EXTINF:-1,  Recursos humanos tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, El cartero pablo neruda tvg-id = "films", 
+https://archive.org/download/ElCarteroYPabloNerudaIlPostinoEnEspanol/El%20Cartero%20y%20Pablo%20Neruda%20%28Il%20postiol-SD.mp4
+#EXTINF: -1, Recursos humanos  tvg-id = "films"
 https://ia802908.us.archive.org/25/items/recursoshumanos1999laurentcantet/Recursos%20Humanos%20%281999%29%20Laurent%20Cantet.mp4
-#EXTINF:-1, el verdugo tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, el verdugo 
 https://ia802905.us.archive.org/11/items/elverdugo1963/El%20Verdugo%20%281963%29.mp4
-#EXTINF:-1,pelicula de accion completa tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
-https://archive.org/download/mejor-pelicula-de-accion-completa-en-espanol-2019/Mejor%20Pel%C3%ADcula%20de%20Acci%C3%B3n%20Completa%20en%20Espa%C3%B1ol%202019.mp4
-#EXTINF:-o,  alias maria tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, pelicula de accion completa 
+https://archive.org/download/mejor-pelicula-de-accion-completa-en-espanol-2019/Mejor%20Pel%C3%ADcula%20de%20Acci%C3%B3n%20Completa%20en%20Espa%C3% B1ol% 202019.mp4
+#EXTINF: -o, alias maria 
 https://ia601703.us.archive.org/9/items/alias-maria-2015/Alias%20Mar%C3%ADa%20%282015%29.mp4
-#EXTINF:-o,  conversaciones con mama tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -o, conversaciones con mama 
 https://ia801901.us.archive.org/28/items/conversaciones-con-mama-2004/Conversaciones%20con%20mam%C3%A1%20%282004%29.mp4
-#EXTINF:-1, la estrategia del caracol tvg-logo=”https://www.hechoencali.com/portal/images/cabrera_caracol_1.jpg"     
-tps://ia802907.us.archive.org/18/items/laestrategiadelcaracolsergiocabrera1993/La%20Estrategia%20del%20Caracol%20%28Sergio%20Cabrera%201993%29.mp4
-#EXTINF:-1, golpe de estadio tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, la estrategia del caracol      
+tps: //ia802907.us.archive.org/18/items/laestrategiadelcaracolsergiocabrera1993/La%20Estrategia%20del%20Caracol%20%28Sergio%20Cabrera%201993%29.mp4
+#EXTINF: -1, golpe de estadio 
 https://ia800105.us.archive.org/14/items/GolpeDeEstadio/Golpe%20De%20Estadio.mp4
-#EXTINF:-1, la novia de frankenstein tvg-logo=”https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-novia-de-frankenstein-remake-universal-1581504418.jpg"
+#EXTINF: -1, la novia de frankenstein 
 https://ia801903.us.archive.org/33/items/LaNoviaDeFrankenstein1935/La%20novia%20de%20Frankenstein%20-1935.mp4
-#EXTINF:-1, el hombre lobo tvg-logo=”https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F001%2F402%2Fel-hombre-lobo-1.jpg"
+#EXTINF: -1, el hombre lobo 
 https://ia801901.us.archive.org/20/items/ElHombreLobo1941Espanol/El%20Hombre%20Lobo%20-%201941%20-%20Espa%C3%B1ol.mp4
-#EXTINF:-1, el mundo de los vapiros tvg-logo=”
+#EXTINF: -1, el mundo de los vapiros 
 https://ia800105.us.archive.org/11/items/ElMundoDeLosVampiros_201803/El%20Mundo%20De%20Los%20Vampiros.mp4
-#EXTINF:-1, el manicomio tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, el manicomio 
 https://ia803207.us.archive.org/11/items/manicomio-1954/Manicomio%20%5B1954%5D.mp4
-#EXTINF:-1, quo vadis
+#EXTINF: -1, quo vadis
 https://ia801004.us.archive.org/18/items/quo.vadis.1951/Quo.Vadis.1951.mp4
-#EXTINF:-1, el libro del buen amor tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
-
-https://ia800705.us.archive.org/25/items/NnLibroDelBuenAmorElElLibroDelBuenAmorComedia1975TomsAznarPatxiAndinBlancaEstradaEspaolEspaa/nn%20Libro%20del%20buen%20amor%2C%20El%20-%20%28El%20libro%20del%20buen%20amor%29-Comedia-1975%28Tom%C3%A1s%20Aznar%29Patxi%20Andi%C3%B3n%2C%20Blanca%20Estrada-Espa%C3%B1ol-Espa%C3%B1a-.mp4
-#EXTINF:-1, el lenguaje de las mariposas
+#EXTINF: -1, el libro del buen amor 
+https://ia800705.us.archive.org/25/items/NnLibroDelBuenAmorElElLibroDelBuenAmorComedia1975TomsAznarPatxiAndinBlancaEstradaEspaolEspaa/nn%20Libro%20del%20buen%20amor%2C%20El28%20-20%l20 -1975% 28Tom% C3% A1s% 20Aznar% 29Patxi% 20Andi% C3% B3n% 2C% 20Blanca% 20Estrada-Espa% C3% B1ol-Espa% C3% B1a-.mp4
+#EXTINF: -1, el lenguaje de las mariposas
 https://ia902909.us.archive.org/30/items/lalenguadelasmariposas2000joseluiscuerda/La%20lengua%20de%20las%20mariposas%20%282000%29%20Jose%20Luis%20Cuerda.mp4
-#EXTINF:-1, mientras dure la guerra tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
-https://ia803205.us.archive.org/9/items/mientras-dure-la-guerra-alejandro-amenabar-2019/Mientras%20dure%20la%20guerra%20%28Alejandro%20Amen%C3%A1bar%2C%202019%29.mp4
-#EXTINF:-1,  maleta mexicana tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, mientras dure la guerra 
+https://ia803205.us.archive.org/9/items/mientras-dure-la-guerra-alejandro-amenabar-2019/Mientras%20dure%20la%20guerra%20%28Alejandro%20Amen%C3%A1bar%2C% 202019% 29.mp4
+#EXTINF: -1, maleta mexicana 
 https://ia903209.us.archive.org/21/items/la-maleta-mexicana-2011/La%20Maleta%20Mexicana%20%282011%29.mp4
-#EXTINF:-1,  ser una miss tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, ser una miss 
 https://ia801704.us.archive.org/10/items/ser-una-miss/Ser%20una%20Miss.mp4
-#EXTINF:-1,  el santo tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, el santo 
 https://ia803108.us.archive.org/0/items/sanlo72/sanbeste72.mp4
-#EXTINF:-1,  la marca de la mariposa tvg-logo=”
+#EXTINF: -1, la marca de la mariposa 
 https://ia801002.us.archive.org/8/items/lamarcadelamariposa1982/La%20marca%20de%20la%20mariposa%20Dual.mp4
-#EXTINF:-1,  classic cinema tvg-logo=”"
+#EXTINF: -1, cine clásico tvg-logo = ”"
 https://ia803205.us.archive.org/9/items/classic-cinema-1/classic-cinema-3.mp4
-#EXTINF:-1 , ***peliculas de taquilla*** 
+#EXTINF: -1, *** peliculas de taquilla *** 
 https://ia801309.us.archive.org/32/items/CuentaAtrs_20151209/Cuenta%20atr%C3%A1s.mp4
-#EXTINF:-1,  MI ABUELO ES UN PELIGRO tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, MI ABUELO ES UN PELIGRO 
 https://goo.gl/KYCQoX
-#EXTINF:-1,  VOLVER AL FUTURO III  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Back_to_the_Future_film_series_logo.png/220px-Back_to_the_Future_film_series_logo.png"
+#EXTINF: -1, VOLVER AL FUTURO III 
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1,  ted 2 tvg-logo=”https://archive.org/services/img/10010010"
+#EXTINF: -1, ted 2 
 https://ia801904.us.archive.org/31/items/10010010/10010010.mp4
-#EXTINF:-1,  amor y drogas tvg-logo=”https://ia600200.us.archive.org/34/items/Series-FilMovieMX/FilMovie.png"
+#EXTINF: -1, amor y drogas 
 https://ia801904.us.archive.org/31/items/10010010/4mor%20y%20Otr4s%20Droga5.mp4
-#EXTINF:-1,  50 sombras de Gray tvg-logo="https://commons.wikimedia.org/wiki/File:Fifty_Shades_of_Grey_movie.png"
+#EXTINF: -1, 50 sombras de Grey 
 https://ia800305.us.archive.org/2/items/50SombrasDeGrey_201505/50%20Sombras%20De%20Grey.mp4
-#EXTINF:-1,  golpe bajo tvg-logo=”https://static.wikia.nocookie.net/doblaje/images/a/ac/Golpe_Bajo_El_Juego_Final.png/revision/latest?cb=20140102094729&path-prefix=es"
+#EXTINF: -1, golpe bajo 
 https://ia601904.us.archive.org/31/items/10010010/TH3_L0NG3ST%20Y4RD.mp4
 
 
-#EXTINF:-1 , ***peliculas infantiles***
+#EXTINF: -1, *** peliculas infantiles ***
 https://ia801309.us.archive.org/32/items/CuentaAtrs_20151209/Cuenta%20atr%C3%A1s.mp4
-#EXTINF:-1, VOD FREE: SAHARA tvg-logo=”https://okdiario.com/img/2018/04/03/el-desierto-del-sahara-ha-crecido-un-10-desde-1920-1-655x368.jpg"
+#EXTINF: -1, VOD FREE: SAHARA 
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-#EXTINF:-1 , ***mr banks***
+#EXTINF: -1, *** señor bancos ***
 https://ia600109.us.archive.org/5/items/Saving.Mr.Banks.2013.1080p/Saving.Mr.Banks.2013.1080p.mp4
-#EXTINF:-1, Dumbo tvg-logo=”https://images-na.ssl-images-amazon.com/images/I/51TIlpQgZSL._SX389_BO1,204,203,200_.jpg"
+#EXTINF: -1, Dumbo 
 https://ia801002.us.archive.org/16/items/dumbo1941bluray/dumbo%281941%29%28BluRay%29.mp4
-#EXTINF:-1,  ANGRY BIRDS tvg-logo=”https://media.pocketgamer.biz/2019/6/98333/angry-birds-red-r225x.jpg"
-http://cecegeek@goo.gl/3KGMLf
+#EXTINF: -1, ANGRY BIRDS 
+ttp: //cecegeek@goo.gl/3KGMLf
