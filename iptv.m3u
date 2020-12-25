@@ -22,8 +22,7 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,#EXTINF:-1 - 13 MAX TELEFE achoAPPS.com #yomequedoencasa
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
-#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="CINE",CINE: Extrema TV
-http://tvpremiumhd.club/lista-gratuita/183022/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 #EXTINF:-1 ,RETRO MUCIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 ,EXTREMA TV
