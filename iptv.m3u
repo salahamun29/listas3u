@@ -8,6 +8,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1, M2O TV Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 #EXTINF:-1,California Music Channel www.achoAPPS.com
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
@@ -16,6 +20,8 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url="" group-title="Music",30A Music
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/j6XPh2U.png" tvg-country="US" tvg-url="" group-title="Comedy",AFV!
@@ -28,22 +34,38 @@ http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
 
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/" group-title="Internacional", Bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="Entretenimiento", American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 
-#EXTINF:-1 ,EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png" group-title="Entretenimiento", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", CGTN ES
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/telemax.png" group-title="Entretenimiento", Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
 
 #EXTINF:-1 ,ARGENTINA:Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
 #EXTINF:-1 ,CANAL 4
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 ,ARGENTINA:Canal Provincial
@@ -72,6 +94,8 @@ http://217.125.136.93:8080/canalsierradecadiz720.m3u8
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="",24/7 Canal de Noticias
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png" group-title="Entretenimiento", Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="ES" tvg-url="" group-title="", TV aragon
