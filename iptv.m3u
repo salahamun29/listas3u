@@ -14,7 +14,7 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 #EXTINF:-1,California Music Channel www.achoAPPS.com
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
-EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1,30A Music www.achoAPPS.com
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
@@ -102,17 +102,17 @@ https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="es" tvg-url="" group-title="", Canal de Mancha
 http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/http/uiConfId/39582391/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="", ETB
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="", ETB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:programas individuales
-#EXTINF:-1 el chavo 
+#EXTINF:-1, el chavo 
 https://ia800807.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
 #EXTINF:****canales de noticias***
-#EXTINF:-1,DW EspaÃ±ol www.achoAPPS.com
+#EXTINF:-1, DW EspaÃ±ol www.achoAPPS.com
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1,Frecuencia Musical (Opt-1) www.achoAPPS.com
+#EXTINF:-1, Frecuencia Musical (Opt-1) www.achoAPPS.com
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
-#EXTINF:-1,MTV www.achoAPPS.com
+#EXTINF:-1, MTV www.achoAPPS.com
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
@@ -131,22 +131,22 @@ https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:****canales de tv de deportes***
 #EXTINF:0 tvg-id="RealMadridTV.sp" group-title="SPORT",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:BAHRAIN SPORTS HD" tvg-logo="" group-title="EL KHALIJ HD",AR:BAHRAIN SPORTS HD
+#EXTINF:-1, tvg-id="" tvg-name="AR:BAHRAIN SPORTS HD" tvg-logo="" group-title="EL KHALIJ HD",AR:BAHRAIN SPORTS HD
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports1
+#EXTINF:0 ,tvg-id="ext" group-title="SPORT",Abu Dhabi Sports1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:0 tvg-id="ext" group-title="SPORT",alkassone 2
+#EXTINF:0 ,tvg-id="ext" group-title="SPORT",alkassone 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="" tvg-name="Ali vs Liston boxeo"
+#EXTINF:-1 , Ali vs Liston boxeo"
 https://ia903209.us.archive.org/32/items/MuhammadAliVsSonnyListon/MuhammadAliVsSonnyListon_512kb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="final de l mundia mexico Brasil vs Italia"
+#EXTINF:-1 , final de l mundia mexico Brasil vs Italia"
 https://ia800701.us.archive.org/0/items/BrasilXItalia-FinalMexico1970/Wc-70FinalBrazil-italy.mp4
 #EXTINF:****canales de colombia***
-#EXTINF:-1 telepasifico
+#EXTINF:-1,  telepasifico
 https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 canal caracol
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="80334" tvg-name="Canal Capital" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQIAAADECAMAAABDV99/AAABgFBMVEX///8fGjD2cBXwP0XwQUPxSDzvOEvxSjr1aB3yTjbwQ0HxRj7yUDTuMFPxSznyTTf1Zh/uLlX1axrvNk3zVS/vO0j0Xib0YyLzWSvzVi7uMlH0YSP0XSgAAA8AABntK1jl5OYAAACCgIgOBCX1YgAAABX2aQAAAB8AAAwYEiv09PX+8PAVDilWVGDv7/AAACC/vsKZmJ7wXX3zVADyRwDZ2Nv95uDzTRvvLSv7x72npqtMSVbb2t35tajyTCb0WwD3ik34kVkrJzrsAEiLiZHuFzg4NUXvMTb93s/2i3D83NTwNxr2ekL4srD0hILvISv0eG35o3f71tvxOhPzfIz1ekrvRF/0iZj3iFz95+v3o6L6y8j1lp3zbWtxb3m0s7hnZW/xVVjzaF72moz0clnzZUj5rpr3mZD2knr1az", Canal Capital
+#EXTINF:-1,  Canal caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1, Canal Capital 
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106775" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
