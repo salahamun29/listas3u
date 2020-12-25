@@ -102,7 +102,7 @@ https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="es" tvg-url="" group-title="", Canal de Mancha
 http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/http/uiConfId/39582391/a.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="", ETB
+#EXTINF:-1, ETB 
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:programas individuales
 #EXTINF:-1, el chavo 
@@ -129,11 +129,11 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Canal IPe PerÃº",Canal IPe PerÃº
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:****canales de tv de deportes***
-#EXTINF:0 ,SPORT Real Madrid Tv
+#EXTINF:0,  Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1, AR:BAHRAIN SPORTS HD
+#EXTINF:-1, BAHRAIN SPORTS HD
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
-#EXTINF:0 ,SPORT Abu Dhabi Sports1
+#EXTINF:0 ,  Abu Dhabi Sports1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:0 , alkassone 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
