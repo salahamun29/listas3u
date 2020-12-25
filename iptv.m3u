@@ -16,8 +16,6 @@ http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1 , canal trece
-https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,30A Music www.achoAPPS.com
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
@@ -163,8 +161,6 @@ https://ia903209.us.archive.org/32/items/MuhammadAliVsSonnyListon/MuhammadAliVsS
 #EXTINF:-1 , final de l mundia mexico Brasil vs Italia"
 https://ia800701.us.archive.org/0/items/BrasilXItalia-FinalMexico1970/Wc-70FinalBrazil-italy.mp4
 #EXTINF:****canales de colombia***
-#EXTINF:-1,  telepasifico
-https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106775" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:****canales de suramerica***
