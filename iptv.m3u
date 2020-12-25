@@ -52,7 +52,7 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png" group-title="Entretenimiento", TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CGTN ES
@@ -102,7 +102,7 @@ https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="es" tvg-url="" group-title="", Canal de Mancha
 http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/http/uiConfId/39582391/a.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="", ETB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="", ETB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:programas individuales
 #EXTINF:-1 el chavo 
@@ -121,7 +121,7 @@ https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8
 #EXTINF:****canales de españa***
 #EXTINF:-1,Telemadrid www.achoAPPS.com
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-EXTINF:-1,RTVC Canarias www.achoAPPS.com
+#EXTINF:-1,RTVC Canarias www.achoAPPS.com
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8?fluxustv.m3u8
 #EXTINF:****canales infantil***
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
