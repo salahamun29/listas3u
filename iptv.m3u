@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:****canales de tv de musica***
+#EXTINF:-1 tvg-id="108675" tvg-name="Canal Trece" tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png", Canal Trece
+https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113074" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
@@ -30,12 +32,19 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+#EXTINF:-1 tvg-id="106774" tvg-name="Canal VisiÃ³n Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal VisiÃ³n Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1 tvg-id="80350" tvg-name="Suram" tvg-logo="https://lh3.googleusercontent.com/-DFeNkokY8O8/XzgiZdthyaI/AAAAAAAA4Yk/JbPZgyPnBLYpa_EX8trKTgjEfE1KiDeLACK8BGAsYHg/s0/2020-08-15.jpg", Suram
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
+#EXTINF:-1 tvg-id="108671" tvg-name="UAO Play" tvg-logo="https://lh3.googleusercontent.com/-tLgCyvI0mh0/XzgjQo6Q8xI/AAAAAAAA4ZM/Su9yAKHJ1dcKi55je1HpyPWfT1JrrX5ZgCK8BGAsYHg/s0/2020-08-15.jpg", UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+
 
 
 
@@ -58,6 +67,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1 tvg-id="108669" tvg-name="Teleenvigado" tvg-logo="https://lh3.googleusercontent.com/-sMAbC2_69PA/Xzgi1U77X5I/AAAAAAAA4Y4/_npZ5yzfoLc2uWKKy0Hu9crf5XFzIUZcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleenvigado
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CGTN ES
 http://livees.cgtn.com/1000e/prog_index.m3u8
