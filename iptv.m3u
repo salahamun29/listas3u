@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:****canales de tv de musica***
-#EXTINF:-1 tvg-id="108675" tvg-name="Canal Trece" tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png", Canal Trece
-https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113074" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
@@ -18,6 +16,8 @@ http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 , canal trece
+https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,30A Music www.achoAPPS.com
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
@@ -179,8 +179,8 @@ https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
 http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 ,ARGENTINA:Canal 26 3
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
-
-
+#EXTINF:-1 ,PELICULAS
+https://acortar.link/YusnR
 
 
 
