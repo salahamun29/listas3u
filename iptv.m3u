@@ -20,6 +20,8 @@ https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/playlist.m3u8
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1,30A Music www.achoAPPS.com
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yr9M9Kj.png" tvg-country="CR" tvg-url="" group-title="",Multimedios Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
@@ -34,8 +36,6 @@ http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 #EXTINF:-1 tvg-id="106774" tvg-name="Canal VisiÃ³n Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal VisiÃ³n Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yr9M9Kj.png" tvg-country="CR" tvg-url="" group-title="",Multimedios Costa Rica
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 
 #EXTINF:-1 ,Lancelot TV
@@ -52,6 +52,8 @@ http://173.212.247.99/hls/tvec4.m3u8
 http://173.212.247.99/hls/tvec3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PrOYyU1.png" tvg-country="CR" tvg-url="" group-title="",Anexion TV
 https://rtmp.info/anexiontv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="CR" tvg-url="" group-title="",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
