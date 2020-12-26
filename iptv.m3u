@@ -179,9 +179,9 @@ http://174.138.118.252/live/trece.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
 #EXTINF:0 tvg-id="MilenioTV.mx" group-title="Channels",MILENIO TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-
-
-
+#EXTINF:-1 ,Telefe Noticias
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1608963746/ei/QoLmX5qgGIOxlAPo5LigBg/ip/2800%3A484%3A3291%3A21c6%3A8144%3A8787%3A56f6%3A3574/id/au66dTj0Yrc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSXuqd-b2n0QGRiYCvHdpgONEw92bDk4dFpU4cfacllgCIQDG3AZtIifQqIc1kYZum48E5-s-tDNtQQ92zeiA3qi77Q%3D%3D/file/index.m3u8
+#EXTINF:-1 , Noticias Caracol
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1608964295/ei/ZoTmX_DaOoqlzLUP-cW6mAM/ip/2800%3A484%3A3291%3A21c6%3A8144%3A8787%3A56f6%3A3574/id/8XL8Qk4qzyA.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/co/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIWDB_C7nKbfR4OmYFcln-a4K8y3ZI6EEu-KTNmaVqMqAiBXGD4_zxFtSC_7vZpFgyZur4QVBfJls_H3Q1f5rMpulw%3D%3D/file/index.m3u8
 
 
