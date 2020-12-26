@@ -46,6 +46,29 @@ http://173.212.247.99/hls/tvec4.m3u8
 http://173.212.247.99/hls/tvec3.m3u8
 
 
+#EXTINF:-1,TVG Infantil www.achoAPPS.com
+http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Canal IPe PerÃº",Canal IPe PerÃº
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+
+#EXTINF:****canales de tv de deportes***
+#EXTINF:0,  Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, BAHRAIN SPORTS HD
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:0 ,  Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:0 , alkassone 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 , Ali vs Liston boxeo"
+https://ia903209.us.archive.org/32/items/MuhammadAliVsSonnyListon/MuhammadAliVsSonnyListon_512kb.mp4
+#EXTINF:-1 , final de l mundia mexico Brasil vs Italia"
+https://ia800701.us.archive.org/0/items/BrasilXItalia-FinalMexico1970/Wc-70FinalBrazil-italy.mp4
+
+
+
 
 
 
