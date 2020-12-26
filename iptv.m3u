@@ -48,6 +48,10 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" tvg-country="DO" tvg-url="" group-title="",Canal AmÃ© 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
+http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="106774" tvg-name="Canal VisiÃ³n Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal VisiÃ³n Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
