@@ -38,10 +38,10 @@ http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
-#EXTINF:-1 tvg-id="80350" tvg-name="Suram" tvg-logo="https://lh3.googleusercontent.com/-DFeNkokY8O8/XzgiZdthyaI/AAAAAAAA4Yk/JbPZgyPnBLYpa_EX8trKTgjEfE1KiDeLACK8BGAsYHg/s0/2020-08-15.jpg", Suram
-https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
-#EXTINF:-1 tvg-id="108671" tvg-name="UAO Play" tvg-logo="https://lh3.googleusercontent.com/-tLgCyvI0mh0/XzgjQo6Q8xI/AAAAAAAA4ZM/Su9yAKHJ1dcKi55je1HpyPWfT1JrrX5ZgCK8BGAsYHg/s0/2020-08-15.jpg", UAO Play
-https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" tvg-country="EC" tvg-url="" group-title="",Teleamazonas
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="EC" tvg-url="" group-title="",Teleamazonas HD
+http://173.212.247.99/hls/tvec4.m3u8
 
 
 
