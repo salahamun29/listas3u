@@ -363,6 +363,16 @@ http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="",TÃ©lam 4
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/APwaLsO.jpg" tvg-country="BO" tvg-url="" group-title="Religious",CatÃ³lica TV
+http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/APwaLsO.jpg" tvg-country="BO" tvg-url="" group-title="Religious",CatÃ³lica TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gXHwjSg.jpg" tvg-country="BO" tvg-url="" group-title="",Red ADVenir
+https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eTDc0wd.jpg" tvg-country="BO" tvg-url="" group-title="",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/YdiF5k6.png" tvg-country="BO" tvg-url="" group-title="",TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
 
 
 
