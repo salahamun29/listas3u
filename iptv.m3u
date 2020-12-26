@@ -14,6 +14,8 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 #EXTINF:-1,California Music Channel www.achoAPPS.com
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/v8Iu8EK.png" tvg-country="CO" tvg-url="" group-title="",Amordiscos TV
+https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1,30A Music www.achoAPPS.com
