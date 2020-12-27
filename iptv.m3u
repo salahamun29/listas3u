@@ -46,7 +46,7 @@ http://tv.romanatv42.com/hls/live.m3u8
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" tvg-country="DO" tvg-url="" group-title="",Super TV 55 Santiago
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/j6XPh2U.png" tvg-country="US" tvg-url="" group-title="Comedy",AFV!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/j6XPh2U.png" tvg-country="US" tvg-url="" group-title="Comedy",AFV!
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 , MAX TELEFE achoAPPS.com #yomequedoencasa
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
