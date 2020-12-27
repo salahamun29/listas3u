@@ -40,9 +40,13 @@ http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-country="DO" tvg-url="" group-title="",Romana TV Canal 42
+http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url="" group-title="Music",30A Music
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/j6XPh2U.png" tvg-country="US" tvg-url="" group-title="Comedy",AFV!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" tvg-country="DO" tvg-url="" group-title="",Super TV 55 Santiago
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/j6XPh2U.png" tvg-country="US" tvg-url="" group-title="Comedy",AFV!
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 , MAX TELEFE achoAPPS.com #yomequedoencasa
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
@@ -52,7 +56,8 @@ http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kNOwvRN.jpg" tvg-country="DO" tvg-url="" group-title="",TELECENTRO 13
+https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 #EXTINF:-1 tvg-id="106774" tvg-name="Canal VisiÃ³n Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal VisiÃ³n Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="",TÃ©lam 4
