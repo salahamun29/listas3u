@@ -122,16 +122,24 @@ https://ia800701.us.archive.org/0/items/BrasilXItalia-FinalMexico1970/Wc-70Final
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:********noticias******
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="",24/7 Canal de Noticias
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1,TVPeru Noticias www.achoAPPS.com
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,CGTN EspaÃ±ol (Opt-1) www.achoAPPS.com
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,DW EspaÃ±ol www.achoAPPS.com
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
 #EXTINF:-1,TVG America www.achoAPPS.com
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="",24/7 Canal de Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1,TVPeru Noticias www.achoAPPS.com
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,TVG Momentos G www.achoAPPS.com
+http://momentog-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,TeleUno TV www.achoAPPS.com
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
 
 
 
