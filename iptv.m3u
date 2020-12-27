@@ -78,6 +78,8 @@ http://173.212.247.99/hls/tvec3.m3u8
 https://rtmp.info/anexiontv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="CR" tvg-url="" group-title="",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,Cine5 TV www.achoAPPS.com
+http://win1.yayin.com.tr/cine5/cine5/.m3u8
 
 
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
