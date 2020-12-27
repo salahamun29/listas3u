@@ -104,7 +104,8 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1,CDM www.achoAPPS.com
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0006&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES-PRICO.png
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",CBN EspaÃ±ol
+https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
@@ -165,6 +166,11 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 http://momentog-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,TeleUno TV www.achoAPPS.com
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" tvg-country="US" tvg-url="" group-title="Local",Cerritos TV3
+https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
 
 
 
