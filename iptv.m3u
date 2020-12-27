@@ -10,6 +10,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1,Turbo Mix Radio TV www.achoAPPS.com
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:-1,Microvision www.achoAPPS.com
+http://190.103.183.24:1935/live/MicroHD/chunklist_w104421517.m3u8
 #EXTINF:-1, M2O TV Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="UK",Afrobeats
@@ -84,6 +86,8 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 http://win1.yayin.com.tr/cine5/cine5/.m3u8
 #EXTINF:-1,Mundo Mas www.achoAPPS.com
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1,Wow TV www.achoAPPS.com
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 #EXTINF:-1,Teleislas www.achoAPPS.com
