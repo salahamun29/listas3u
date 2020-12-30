@@ -104,6 +104,8 @@ http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.caracoltv.com/sites/default/files/caracoltv_logo_200.png" tvg-country="UNSORTED" tvg-url="" group-title="",Caracol (Colombia)
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.teleantioquia.co/wp-content/uploads/2016/04/25145310/TA_te_ve_en_grande.png" tvg-country="UNSORTED" tvg-url="" group-title="",Teleantioquia (Colombia)
+https://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8
 #EXTINF:-1,Teleislas www.achoAPPS.com
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="EC" tvg-url="" group-title="",Ecuavisa HD
