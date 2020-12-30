@@ -71,6 +71,8 @@ https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="",TÃ©lam 4
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-country="PE" tvg-url="" group-title="",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 ,Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 , canal-rtp-bolivia
