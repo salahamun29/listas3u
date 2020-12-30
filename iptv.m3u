@@ -73,8 +73,8 @@ http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 , canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-#EXTINF:-0 ,peliculas  TV
-https://raw.githubusercontent.com/fabiangarcia73/listas3u/master/peliculas.w3u
+#EXTINF:-0 ,UMAG TV
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
