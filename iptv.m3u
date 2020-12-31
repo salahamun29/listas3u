@@ -14,6 +14,8 @@ http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w104421517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-en8hZg-ydAg/XhM37CW34WI/AAAAAAAApbY/kkIzMk9g_IM8m0Mzn-DLoM-Bu4JKlaUawCLcBGAsYHQ/s320/Telemusica.png" tvg-country="UNSORTED" tvg-url="" group-title="Music",Telemusica (Music)
 http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
+#EXTINF:-0 ,UMAG TV
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 #EXTINF:-1, M2O TV Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aBPSij2.png" tvg-country="CO" tvg-url="" group-title="Music",Telemusica
@@ -75,14 +77,15 @@ http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 ,Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" tvg-country="ES" tvg-url="" group-title="Local",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+
 #EXTINF:-1 , canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",Mi TV TelevisiÃ³n ClÃ¡sica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-0 ,UMAG TV
-http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
-http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" tvg-country="EC" tvg-url="" group-title="",Teleamazonas
@@ -112,6 +115,8 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="CO" tvg-url="" group-title="",Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Hlrdeds.png" tvg-country="CO" tvg-url="" group-title="",Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
 
 #EXTINF:-1 tvg-id="Canarias.TDTChannelsEPG" tvg-name="TelevisiÃ³n Canaria" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/225265760833908/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",TelevisiÃ³n Canaria
