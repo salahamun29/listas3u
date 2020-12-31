@@ -110,6 +110,8 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1,Teleislas 
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="CO" tvg-url="" group-title="",Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="Canarias.TDTChannelsEPG" tvg-name="TelevisiÃ³n Canaria" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/225265760833908/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",TelevisiÃ³n Canaria
@@ -207,7 +209,12 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DrGJhG3.png" tvg-country="US" tvg-url="" group-title="Religious",3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" tvg-country="US" tvg-url="" group-title="News",CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" tvg-country="US" tvg-url="" group-title="Local",Cerritos TV3
@@ -220,6 +227,8 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" tvg-country="US" tvg-url="" group-title="",TVS Nostalgia Movies
 https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" tvg-country="US" tvg-url="" group-title="Movies",Classic Cinema
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
 
 
 
