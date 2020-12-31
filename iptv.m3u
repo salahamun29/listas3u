@@ -164,6 +164,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" tvg-country="US" tvg-url="" group-title="",TVS Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="Sport",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
@@ -175,6 +177,16 @@ https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" tvg-country="US" tvg-url="" group-title="",TVS Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RZE3Pwf.png" tvg-country="US" tvg-url="" group-title="Sport",Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 , Ali vs Liston boxeo"
 https://ia903209.us.archive.org/32/items/MuhammadAliVsSonnyListon/MuhammadAliVsSonnyListon_512kb.mp4
@@ -182,6 +194,9 @@ https://ia903209.us.archive.org/32/items/MuhammadAliVsSonnyListon/MuhammadAliVsS
 https://ia800701.us.archive.org/0/items/BrasilXItalia-FinalMexico1970/Wc-70FinalBrazil-italy.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
 #EXTINF:********noticias******
 #EXTINF:-1,CGTN EspaÃ±ol (Opt-1) www.achoAPPS.com
 http://livees.cgtn.com/1000e/prog_index.m3u8
