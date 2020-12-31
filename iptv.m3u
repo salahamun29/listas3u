@@ -138,6 +138,10 @@ https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ANW1pIH.png" tvg-country="HN" tvg-url="" group-title="",Ebenezer TV
 http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El PingÃ¼ino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EuroLatina TV" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="Music",EuroLatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 
 
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
