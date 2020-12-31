@@ -126,8 +126,6 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 
 
 
-EXTINF:-1 tvg-id="Canarias.TDTChannelsEPG" tvg-name="TelevisiÃ³n Canaria" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/225265760833908/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",TelevisiÃ³n Canaria
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",tvunam
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-mt7LVY0X3kE/XlBdyl_hwFI/AAAAAAAAwW0/vqFU9wiyuawEn3E39ERyYaOkVZ3TVterACK8BGAsYHg/s0/2020-02-21.png" tvg-country="UNSORTED" tvg-url="" group-title="",U Los Lagos
