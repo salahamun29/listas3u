@@ -238,6 +238,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" tvg-country="US" tvg-url="" group-title="Movies",Classic Cinema
 https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WrYEcXp.png" tvg-country="US" tvg-url="" group-title="",Young Hollywood
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SDKWWQu.png" tvg-country="US" tvg-url="" group-title="",Xcorps TV
+https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SDKWWQu.png" tvg-country="US" tvg-url="" group-title="",americanclassictv
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+
+
 
 
 
