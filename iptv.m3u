@@ -205,6 +205,8 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,TeleUno TV www.achoAPPS.com
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DrGJhG3.png" tvg-country="US" tvg-url="" group-title="Religious",3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
