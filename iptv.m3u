@@ -119,7 +119,10 @@ http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
 
-#EXTINF:-1 tvg-id="Canarias.TDTChannelsEPG" tvg-name="TelevisiÃ³n Canaria" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/225265760833908/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",TelevisiÃ³n Canaria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="EC" tvg-url="" group-title="",Ecuavisa HD
+http://173.212.247.99/hls/tvec2.m3u8
+
+EXTINF:-1 tvg-id="Canarias.TDTChannelsEPG" tvg-name="TelevisiÃ³n Canaria" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/225265760833908/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",TelevisiÃ³n Canaria
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",tvunam
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
@@ -133,6 +136,9 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" tvg-country="AR" tvg-url="" group-title="",5RTV Santa Fe
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ANW1pIH.png" tvg-country="HN" tvg-url="" group-title="",Ebenezer TV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+
 
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
