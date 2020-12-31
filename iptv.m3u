@@ -120,7 +120,8 @@ https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
 http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" tvg-country="VE" tvg-url="" group-title="",Promar TV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-country="UNSORTED" tvg-url="" group-title="",France 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",CBN EspaÃ±ol
 https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" tvg-country="AR" tvg-url="" group-title="",5RTV Santa Fe
@@ -190,7 +191,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,DW EspaÃ±ol www.achoAPPS.com
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" tvg-country="AR" tvg-url="" group-title="",Canal 10 Rio Negro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-country="UNSORTED" tvg-url="" group-title="",France 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" tvg-country="AR" tvg-url="" group-title="",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1,TVG America www.achoAPPS.com
 http://america-crtvg.flumotion.com/playlist.m3u8
