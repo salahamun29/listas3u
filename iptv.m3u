@@ -77,8 +77,7 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",Mi TV TelevisiÃ³n ClÃ¡sica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" tvg-country="EC" tvg-url="" group-title="",Teleamazonas
-https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://cdn.rts.com.ec/2018/v3/images/logo.png" tvg-country="EC" tvg-url="" group-title="",RTS Ecuador
 http://173.212.247.99/hls/tvec3.m3u8
 #EXTINF:-1,Wow TV www.achoAPPS.com
@@ -123,9 +122,8 @@ https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 http://173.212.247.99/hls/tvec4.m3u8
 #EXTINF:-1 , canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" tvg-country="EC" tvg-url="" group-title="",Teleamazonas
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",tvunam
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-mt7LVY0X3kE/XlBdyl_hwFI/AAAAAAAAwW0/vqFU9wiyuawEn3E39ERyYaOkVZ3TVterACK8BGAsYHg/s0/2020-02-21.png" tvg-country="UNSORTED" tvg-url="" group-title="",U Los Lagos
