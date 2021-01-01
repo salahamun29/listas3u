@@ -1,4 +1,2 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=556480,CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=1024x576
-https://archive.org/download/himno-nal-colombia-completo/HIMNO%20NAL%20COLOMBIA%20completo.mp4
+#EXTINF: -1, el lenguaje de las mariposas
+https://ia902909.us.archive.org/30/items/lalenguadelasmariposas2000joseluiscuerda/La%20lengua%20de%20las%20mariposas%20%282000%29%20Jose%20Luis%20Cuerda.mp4
