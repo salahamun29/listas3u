@@ -13,9 +13,11 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+
+
+
 #EXTINF:-1, peliculas del dia  el lenguajes de las mariposas
 https://raw.githubusercontent.com/fabiangarcia73/listas3u/master/mp4.m3u
-
 #EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO
 http://tvpremiumhd.club/lista-gratuita/180231/on/lives.php?id=archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 #EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",Terminus
@@ -41,6 +43,8 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Hlrdeds.png" tvg-country="CO" tvg-url="" group-title="",Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-id="108676" tvg-name="CMB TelevisiÃ³n" tvg-logo="https://lh3.googleusercontent.com/-eSdT3GYB0lk/XzghwIJXu6I/AAAAAAAA4YI/CVGYswP_mIAbWqyPXHqNvwyI7kRy-k6zgCK8BGAsYHg/s0/2020-08-15.png", CMB TelevisiÃ³n
+https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="",TÃ©lam 4
