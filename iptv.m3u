@@ -16,8 +16,21 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 #EXTINF:-1, peliculas del dia  el lenguajes de las mariposas
 https://raw.githubusercontent.com/fabiangarcia73/listas3u/master/mp4.m3u
 
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO
+http://tvpremiumhd.club/lista-gratuita/180231/on/lives.php?id=archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",Terminus
+http://tvpremiumhd.club/lista-gratuita/180231/on/lives.php?id=archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",The Cloverfield Paradox
+http://tvpremiumhd.club/lista-gratuita/180231/on/lives.php?id=ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/040320abc/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg",La Forma del Agua SUBTITULADO
+http://tvpremiumhd.club/lista-gratuita/180231/on/lives.php?id=archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg",Cuando nos Conocimos
+http://tvpremiumhd.club/lista-gratuita/180231/on/lives.php?id=archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
 
+
+#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="CO" tvg-url="" group-title="",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1,Mundo Mas w
