@@ -74,6 +74,7 @@ http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EuroLatina TV" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="Music",EuroLatina TV
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 
@@ -81,6 +82,8 @@ http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",ENTRETENIMINETO: Chicos IPE
+http://tvpremiumhd.club/lista-gratuita/180231/on/live.php?id=cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Canal IPe PerÃº",Canal IPe PerÃº
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
@@ -93,6 +96,9 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:****canales de tv de deportes***
 #EXTINF:0,  Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1  tvg-logo=“https://es.wikipedia.org/wiki/Archivo:Chile_01.png” group-title="Cl", teletrak
+https://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="PK" tvg-url="" group-title="",PTV SPORTS
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8
 #EXTINF:-1, BAHRAIN SPORTS HD
