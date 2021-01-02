@@ -16,13 +16,8 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 
 
 
-#EXTINF:-1, peliculas del dia  el lenguajes de las mariposas
-https://raw.githubusercontent.com/fabiangarcia73/listas3u/master/mp4.m3u
 
 
-
-#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="CO" tvg-url="" group-title="",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1,Mundo Mas w
@@ -31,8 +26,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="CO" tvg-url="" group-title="",Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Hlrdeds.png" tvg-country="CO" tvg-url="" group-title="",Canal Capital HD
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="108676" tvg-name="CMB TelevisiÃ³n" tvg-logo="https://lh3.googleusercontent.com/-eSdT3GYB0lk/XzghwIJXu6I/AAAAAAAA4YI/CVGYswP_mIAbWqyPXHqNvwyI7kRy-k6zgCK8BGAsYHg/s0/2020-08-15.png", CMB TelevisiÃ³n
 https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -73,15 +66,12 @@ http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",CBN EspaÃ±ol
 https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" tvg-country="AR" tvg-url="" group-title="",5RTV Santa Fe
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ANW1pIH.png" tvg-country="HN" tvg-url="" group-title="",Ebenezer TV
 http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El PingÃ¼ino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EuroLatina TV" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="Music",EuroLatina TV
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 
@@ -89,8 +79,6 @@ http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",ENTRETENIMINETO: Chicos IPE
-http://tvpremiumhd.club/lista-gratuita/180231/on/live.php?id=cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Canal IPe PerÃº",Canal IPe PerÃº
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
