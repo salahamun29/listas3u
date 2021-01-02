@@ -9,13 +9,12 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",Mi TV TelevisiÃ³n ClÃ¡sica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Wow TV www.achoAPPS.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" tvg-country="ES" tvg-url="" group-title="Local",Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+EXTINF:-1,Wow TV www.achoAPPS.com
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="CO" tvg-url="" group-title="",Cali TV
@@ -158,6 +157,13 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AFT43kx.png" tvg-country="ES" tvg-url="" group-title="",Cadena Elite
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2BBGZ1H.png" tvg-country="ES" tvg-url="" group-title="",Canal 25 Barbastro
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1zJpDIX.png" tvg-country="ES" tvg-url="" group-title="",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+
 
 #EXTINF:****canales de tv de musica***
 #EXTINF:-1 tvg-id="113074" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
