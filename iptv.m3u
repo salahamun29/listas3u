@@ -81,6 +81,8 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" tvg-country="PE" tvg-url="" group-title="",Cultura 24 TV
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 
 
@@ -177,7 +179,10 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IqLT2CC.png" tvg-country="PA" tvg-url="" group-title="",OYE CANAL 7
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B89KuHO.png" tvg-country="PE" tvg-url="" group-title="",Pax TV
+https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="PE" tvg-url="" group-title="",BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
 
 
