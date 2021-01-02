@@ -171,6 +171,18 @@ https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1zJpDIX.png" tvg-country="ES" tvg-url="" group-title="",Canal 33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",tvunam
+https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" tvg-country="MX" tvg-url="" group-title="",TVMÃS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zh05BZ3.jpeg" tvg-country="MX" tvg-url="" group-title="",Mexiquense TV
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SsSLnJC.png" tvg-country="PA" tvg-url="" group-title="",Sertv
+https://accionastream.com/live/sertv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IqLT2CC.png" tvg-country="PA" tvg-url="" group-title="",OYE CANAL 7
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+
+
 
 
 #EXTINF:****canales de tv de musica***
