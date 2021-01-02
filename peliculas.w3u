@@ -115,7 +115,6 @@ https://archive.org/download/CC_1914_02_02_MakingALiving/CC_1914_02_02_MakingALi
 https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4
 #EXTINF: -1 chaplin  BetweenShowers
 https://ia800301.us.archive.org/13/items/CC_1914_02_28_BetweenShowers/CC_1914_02_28_BetweenShowers_512kb.mp4
-#EXTINF: https://archive.org/details/CC_1914_02_28_BetweenShowers
 #EXTINF: -1 Popeye_Nearlyweds
 https://ia800309.us.archive.org/2/items/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4
 #EXTINF: -1 Popeye taxi turvy
@@ -129,7 +128,7 @@ https://ia800301.us.archive.org/5/items/Felix_BoldKingCole/Felix_BoldKingCole_51
 #EXTINF: -1 Herman_CheeseBurglar
 https://ia802702.us.archive.org/27/items/Herman_CheeseBurglar/Herman_CheeseBurglar_512kb.mp4
 
-EXTINF: -1, germinal
+#EXTINF: -1, germinal
 https://ia802901.us.archive.org/11/items/germinal_202003/Germinal.mp4
 #EXTINF: -1,  hacia-rutas-salvajes
 https://ia801906.us.archive.org/1/items/hacia-rutas-salvajes-sean-penn-2007/Hacia%20rutas%20salvajes%20%28Sean%20Penn%2C%202007%29.mp4
