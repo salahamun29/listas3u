@@ -277,6 +277,9 @@ https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SDKWWQu.png" tvg-country="US" tvg-url="" group-title="",americanclassictv
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="rock" tvg-language="English" tvg-logo="https://i.imgur.com/SDKWWQu.png" tvg-country="US" tvg-url="" group-title="",rocktv
+https://raw.githubusercontent.com/fabiangarcia73/listas3u/master/rock.m3u
+
 
 
 
