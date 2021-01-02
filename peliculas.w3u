@@ -1,4 +1,4 @@
-# EXTM3U
+#EXTM3U
 #EXTINF: -1, *** pelicula clasicas ***
 https://ia801309.us.archive.org/32/items/CuentaAtrs_20151209/Cuenta%20atr%C3%A1s.mp4
 #EXTINF: -1, El cartero pablo neruda tvg-id = "films", 
@@ -85,7 +85,7 @@ https://ia801002.us.archive.org/16/items/dumbo1941bluray/dumbo%281941%29%28BluRa
 https://ia601900.us.archive.org/13/items/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/%5B1080p%5D%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20%28sin%20censura%20en%20FULL%20HD%29%20%281080p_30fps_H264-128kbit_AAC%29.mp4
 #EXTINF: -1, losiete locos
 https://ia802909.us.archive.org/0/items/los-siete-locos-1973/Los%20Siete%20Locos%20%281973%29.mp4
-EXTINF: -1, paraisos perdidos
+#EXTINF: -1, paraisos perdidos
 https://ia802909.us.archive.org/31/items/los-paraisos-perdidos-1985/Los.Paraisos.Perdidos.%281985%29.mp4
 #EXTINF: -1, las aguas bajan turbias
 https://ia801900.us.archive.org/23/items/las-aguas-bajan-turbias-1952/LAS%20AGUAS%20BAJAN%20TURBIAS%20%281952%29.mp4
@@ -101,31 +101,31 @@ https://ia801204.us.archive.org/19/items/System_Of_A_Down_Toxicity/System%20Of%2
 https://ia601201.us.archive.org/30/items/Guns_N_Roses_Welcome_To_The_Jungle/Guns%20N%20Roses_Welcome%20To%20The%20Jungle.mp4
 #EXTINF: -1, video musical Incubus_Pardon_Me
 https://ia801207.us.archive.org/8/items/Incubus_Pardon_Me_/Incubus_Pardon%20Me%20.mp4
-#EXTINF: -1 chaplin ThePawnshop
+#EXTINF: -1, chaplin ThePawnshop
 https://ia802605.us.archive.org/7/items/CC_1916_10_02_ThePawnshop/CC_1916_10_02_ThePawnshop_512kb.mp4
-#EXTINF: -1 chaplin TheVagabond
+#EXTINF: -1, chaplin TheVagabond
 https://ia802205.us.archive.org/29/items/CC_1916_07_10_TheVagabond/CC_1916_07_10_TheVagabond.mp4
-#EXTINF: -1 chaplin TheFloorwalker
+#EXTINF: -1, chaplin TheFloorwalker
 https://ia800206.us.archive.org/13/items/CC_1916_05_15_TheFloorwalker/CC_1916_05_15_TheFloorwalker_512kb.mp4
-#EXTINF: -1 chaplin TheCount
+#EXTINF: -1, chaplin TheCount
 https://ia800303.us.archive.org/16/items/CC_1916_09_04_TheCount/CC_1916_09_04_TheCount_512kb.mp4
-#EXTINF: -1 chaplin MakingALiving
+#EXTINF: -1, chaplin MakingALiving
 https://archive.org/download/CC_1914_02_02_MakingALiving/CC_1914_02_02_MakingALiving_512kb.mp4
-#EXTINF: -1 chaplin  KidsAutoRaceAtVenice
+#EXTINF: -1, chaplin  KidsAutoRaceAtVenice
 https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4
-#EXTINF: -1 chaplin  BetweenShowers
+#EXTINF: -1, chaplin  BetweenShowers
 https://ia800301.us.archive.org/13/items/CC_1914_02_28_BetweenShowers/CC_1914_02_28_BetweenShowers_512kb.mp4
-#EXTINF: -1 Popeye_Nearlyweds
+#EXTINF: -1, Popeye_Nearlyweds
 https://ia800309.us.archive.org/2/items/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4
-#EXTINF: -1 Popeye taxi turvy
+#EXTINF: -1, Popeye taxi turvy
 https://ia800908.us.archive.org/11/items/taxi-turvy/taxi-turvy_512kb.mp4
-#EXTINF: -1 Tom_and_Jerry_Jolly_Fish_1932
+#EXTINF: -1, Tom_and_Jerry_Jolly_Fish_1932
 https://ia800705.us.archive.org/13/items/Jolly_Fish_1932/Tom_and_Jerry_Jolly_Fish_1932_512kb.mp4
-#EXTINF: -1 TheSpirit
+#EXTINF: -1, TheSpirit
 https://ia800705.us.archive.org/28/items/TheSpiritOf43_56/The_Spirit_of__43_512kb.mp4
-#EXTINF: -1 Felix_BoldKingCole
+#EXTINF: -1, Felix_BoldKingCole
 https://ia800301.us.archive.org/5/items/Felix_BoldKingCole/Felix_BoldKingCole_512kb.mp4
-#EXTINF: -1 Herman_CheeseBurglar
+#EXTINF: -1, Herman_CheeseBurglar
 https://ia802702.us.archive.org/27/items/Herman_CheeseBurglar/Herman_CheeseBurglar_512kb.mp4
 
 #EXTINF: -1, germinal
