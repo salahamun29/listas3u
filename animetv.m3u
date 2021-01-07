@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.gif"group-title="futurama",Piloto espacial
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.gif"group-title="futurama",Piloto espacial
 https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.mp4
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo=""group-title="",ryck y mock
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo=""group-title="",ryck y mock
 https://archive.org/download/rymt02xe01/RyM_T01xE01.mp4
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://commons.wikimedia.org/wiki/File:Cobra_1991-3.jpg"group-title="cobra",super agente cobra capitulo 8 mandra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://commons.wikimedia.org/wiki/File:Cobra_1991-3.jpg"group-title="cobra",super agente cobra capitulo 8 mandra
 https://ia802801.us.archive.org/19/items/super-agente-cobra-capitulo-9-parte-1-720p/super-agente-cobra-capitulo-8-parte-1-360p.mp4
 #EXTINF:-1, comercial
 https://ia800405.us.archive.org/30/items/1959CommercialForBlackFlagInsectBomb/blackflag1959.mp4
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://commons.wikimedia.org/wiki/File:Cobra_1991-3.jpg"group-title="cobra",super agente cobra capitulo 8 mandra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://commons.wikimedia.org/wiki/File:Cobra_1991-3.jpg"group-title="cobra",super agente cobra capitulo 8 mandra
 https://ia802801.us.archive.org/19/items/super-agente-cobra-capitulo-9-parte-1-720p/super-agente-cobra-capitulo-8-parte-2-360p.mp4
