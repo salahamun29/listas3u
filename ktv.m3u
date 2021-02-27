@@ -17,3 +17,11 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV",Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Plus TV Chile",Retro Plus TV Chile EN
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+
+
