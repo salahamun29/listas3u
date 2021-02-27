@@ -12,11 +12,8 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",Telenord 10 (Opt-1)
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iE1xhA5.png" tvg-country="DO" tvg-url="" group-title="",Telenord 12
-http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV",Locomotion TV
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
