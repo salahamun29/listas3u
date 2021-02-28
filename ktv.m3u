@@ -53,15 +53,15 @@ https:\\mdstrm.com\live-stream-playlist\5d88d659120a717cf93ce620.m3u8
 https:\\unlimited10-cl.dps.live\thema\thema.smil\thema\livestream1\playlist.m3u8
 #EXTINF:-1  tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",montana tv
 http:\\ss6.domint.net:2060\tvm_str\montanatv\master.m3u8
-#EXTINF:-1  tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",WMS
+#EXTINF:-1  tvg-name="WMS",WMS
 https:\\cm.hostlagarto.com:4445\wmserviceHD\wmservicehd.myStream\playlist.m3u8
 
 
-#EXTINF:-1  tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1", tvs tv
+#EXTINF:-1  tvg-name="TVS", tvs tv
 http:\\cm.hostlagarto.com:8081\Tvstv\TvstvHD.myStream\playlist.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1", tv u
+#EXTINF:-1 tvg-name="tvUniversitario", tv universitaria
 http:\\136.243.3.70:1935\TvUniversitaria\TvUniversitaria\chunklist.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1", u tv unah
+#EXTINF:-1 tvg-name="unanh", u tv unah
 https:\\live-utv.unah.edu.hn\web\salida.m3u8
 
 
