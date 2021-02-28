@@ -46,20 +46,20 @@ http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" tvg-url="" group-title="",Super TV 55 (Santiago) (720p)
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",thema  la serena
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="thema la serena", thema  la serena
 https:\\unlimited10-cl.dps.live\thema\thema.smil\thema\livestream1\playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",montana tv
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="montana TV",montana tv
 http:\\ss6.domint.net:2060\tvm_str\montanatv\master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",WMS
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="entretenimiento" tvg-name="wms",WMS
 https:\\cm.hostlagarto.com:4445\wmserviceHD\wmservicehd.myStream\playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="", tvs tv
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="tvs",, tvs tv
 http:\\cm.hostlagarto.com:8081\Tvstv\TvstvHD.myStream\playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="", tv universitaria
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="TV Universitaria",tv tv universitaria
 http:\\136.243.3.70:1935\TvUniversitaria\TvUniversitaria\chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="", u tv unah
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="unanh", u tv unah
 https:\\live-utv.unah.edu.hn\web\salida.m3u8
 
 
@@ -73,9 +73,9 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KeBXBJE.png" tvg-url="" group-title="Local",ETB 1 (720p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg"  carreras caballos
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg",carreras caballos
 https:\\unlimited1-us.dps.live\teletrak\teletrak.smil\teletrak\livestream1\playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" tvg2
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV", tvg2
 https:\\events3-crtvg.flumotion.com\playlist.m3u8
 
 
@@ -91,7 +91,7 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV",Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg"  Wow tv
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV",Wow tv
 http:\\cdn.elsalvadordigital.com:1935\wowtv\wowtv\chunklist_w454258933.m3u8
 
 
