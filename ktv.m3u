@@ -46,22 +46,20 @@ http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" tvg-url="" group-title="",Super TV 55 (Santiago) (720p)
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",RPC
-https:\\mdstrm.com\live-stream-playlist\5d88d659120a717cf93ce620.m3u8
-#EXTINF:-1  tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1", thema  la serena
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",thema  la serena
 https:\\unlimited10-cl.dps.live\thema\thema.smil\thema\livestream1\playlist.m3u8
-#EXTINF:-1  tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",montana tv
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",montana tv
 http:\\ss6.domint.net:2060\tvm_str\montanatv\master.m3u8
-#EXTINF:-1  tvg-name="WMS",WMS
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",WMS
 https:\\cm.hostlagarto.com:4445\wmserviceHD\wmservicehd.myStream\playlist.m3u8
 
 
-#EXTINF:-1  tvg-name="TVS", tvs tv
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="", tvs tv
 http:\\cm.hostlagarto.com:8081\Tvstv\TvstvHD.myStream\playlist.m3u8
-#EXTINF:-1 tvg-name="tvUniversitario", tv universitaria
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="", tv universitaria
 http:\\136.243.3.70:1935\TvUniversitaria\TvUniversitaria\chunklist.m3u8
-#EXTINF:-1 tvg-name="unanh", u tv unah
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="", u tv unah
 https:\\live-utv.unah.edu.hn\web\salida.m3u8
 
 
