@@ -1,5 +1,6 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QT78nTj.png" tvg-url="" group-title="",Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="CR" tvg-url="" group-title="",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1,Wow TV salvador
@@ -33,10 +34,8 @@ http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80286" tvg-name="Canal 9 Televida Mendoza" tvg-logo="https://lh3.googleusercontent.com/-TmHTUs7Ojw8/XjtIHEuqGMI/AAAAAAAAvqk/yPmGUO113SwEYcMbOYumWR6oklPgmrvOQCK8BGAsYHg/s0/2020-02-05.png", Canal 9 Televida Mendoza
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 , canal-rtp-bolivia
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" tvg-country="EC" tvg-url="" group-title="",Teleamazonas
-https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4QUyVBQ.png" tvg-url="" group-title="",ESTV (720p)
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",DAN TV (720p)
@@ -45,6 +44,17 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" tvg-url="" group-title="",Super TV 55 (Santiago) (720p)
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+
+
 
 
 
