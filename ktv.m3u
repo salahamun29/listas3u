@@ -16,8 +16,6 @@ https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="100580" tvg-name="Canal 6 Entre Rios" tvg-logo="https://lh3.googleusercontent.com/-WaPcoRIsunA/X9djlAdcgmI/AAAAAAAA8OA/zTZ4rmvloRkADrSVnucZuvR1pZZKhA9sACK8BGAsYHg/s0/2020-12-14.png", Canal 6 Entre Rios
-https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80660" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-JtAR5L5DJTM/Xx4FT5BIoII/AAAAAAAA3hI/MrIvjOkijt0tl7brflyUUTS_gBsJiGxOgCK8BGAsYHg/s0/2020-07-26.png", Canal 2 Mar del Plata
@@ -27,8 +25,6 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80282" tvg-name="Canal 4 San Juan" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png", Canal 4 San Juan
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="80300" tvg-name="Canal 7 Chubut" tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png", Canal 7 Chubut
-http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108926" tvg-name="Canal 10 Rio Negro" tvg-logo="https://lh3.googleusercontent.com/-RPgMJ90DCeU/XjtIXwH4L3I/AAAAAAAAvqs/HoaDT_pgUukebIWHY7ndUkZs1fiQerE_ACK8BGAsYHg/s0/2020-02-05.png", Canal 10 Rio Negro
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80286" tvg-name="Canal 9 Televida Mendoza" tvg-logo="https://lh3.googleusercontent.com/-TmHTUs7Ojw8/XjtIHEuqGMI/AAAAAAAAvqk/yPmGUO113SwEYcMbOYumWR6oklPgmrvOQCK8BGAsYHg/s0/2020-02-05.png", Canal 9 Televida Mendoza
