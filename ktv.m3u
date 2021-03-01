@@ -57,6 +57,12 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" tvg-url="" group-title="",TVS (540p)
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YdiF5k6.png" tvg-url="" group-title="",TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200" tvg-url="" group-title="",tvunam (480p)
+https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
 
 
 
@@ -77,8 +83,6 @@ https://events3-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p0lsIBW.png" tvg-url="" group-title="",Xto TV
-http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist.m3u8
 
 
 #EXTINF:****canales Infantiles***
@@ -155,12 +159,6 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 https://cu.onliv3.com/livevd/user1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" tvg-url="" group-title="",TVS (540p)
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YdiF5k6.png" tvg-url="" group-title="",TVU
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200" tvg-url="" group-title="",tvunam (480p)
-https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" tvg-country="VE" tvg-url="" group-title="",Promar TV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
