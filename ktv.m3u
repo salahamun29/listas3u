@@ -55,11 +55,11 @@ http:\\ss6.domint.net:2060\tvm_str\montanatv\master.m3u8
 https:\\cm.hostlagarto.com:4445\wmserviceHD\wmservicehd.myStream\playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="tvs",, tvs tv
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", tvs tv
 http:\\cm.hostlagarto.com:8081\Tvstv\TvstvHD.myStream\playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="TV Universitaria",tv tv universitaria
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", tvg-name="TV Universitaria",tv tv universitaria
 http:\\136.243.3.70:1935\TvUniversitaria\TvUniversitaria\chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="unanh", u tv unah
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", u tv unah
 https:\\live-utv.unah.edu.hn\web\salida.m3u8
 
 
@@ -71,11 +71,11 @@ https:\\live-utv.unah.edu.hn\web\salida.m3u8
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" tvg-url="" group-title="Local",EITB (360p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KeBXBJE.png" tvg-url="" group-title="Local",ETB 1 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil",ETB 1 (720p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg",carreras caballos
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil",carreras caballos
 https:\\unlimited1-us.dps.live\teletrak\teletrak.smil\teletrak\livestream1\playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV", tvg2
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png",tvg2
 https:\\events3-crtvg.flumotion.com\playlist.m3u8
 
 
@@ -91,7 +91,7 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV",Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV",Wow tv
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil",Wow tv
 http:\\cdn.elsalvadordigital.com:1935\wowtv\wowtv\chunklist_w454258933.m3u8
 
 
