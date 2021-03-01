@@ -45,10 +45,7 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" tvg-url="" group-title="",Thema TV (La Serena) (720p)
-https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2Sgckg3.jpg" tvg-url="" group-title="",TV MontaÃ±a Canal 10 (720p)
-http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" tvg-url="" group-title="",WMS (1080p)
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
