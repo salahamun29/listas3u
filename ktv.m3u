@@ -8,6 +8,9 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="" group-title="",Family Movies
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/oMXfdkV.png" tvg-url="" group-title="",TV Shows
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 
@@ -85,6 +88,12 @@ https://alchimie-humanity-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/SUphv9v.jpg" tvg-url="" group-title="",Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/6V48LwT.jpg" tvg-url="" group-title="",Travel XP
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/RHqiy4Z.png" tvg-url="" group-title="",The Pet Collective
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+
+
 
 
 
@@ -94,6 +103,8 @@ https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" tvg-url="" group-title="Sport",Claro Sports (1080p)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="" group-title="",Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" tvg-url="" group-title="Local",EITB (360p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="",ETB 1 (720p)
@@ -120,6 +131,8 @@ https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-sporttvplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/trfRIem.png" tvg-url="" group-title="",Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/lTqP4Ij.jpg" tvg-url="" group-title="",SWISS Sport TV 24/7
+https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" tvg-url="" group-title="",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -151,6 +164,9 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/cyfu3qP.png" tvg-url="" group-title="",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/DAhbkLv.png" tvg-url="" group-title="",Watch it Kid
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+
 
 
 
