@@ -204,6 +204,9 @@ https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/DAhbkLv.png" tvg-url="" group-title="",Watch it Kid
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Religious",3ABN KIDS TV (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
 
 
 
@@ -238,6 +241,10 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial" tvg-country="US" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" tvg-url="" group-title="Music",La Mega Mundial (720p)
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AqVdlpz.png" tvg-url="" group-title="",Kiss (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nn2VfkP.png" tvg-url="" group-title="",Kerrang (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
