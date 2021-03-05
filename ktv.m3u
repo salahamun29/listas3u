@@ -2,6 +2,39 @@
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="CR" tvg-url="" group-title="",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="" group-title="",Action Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="" group-title="",Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="" group-title="",Family Movies
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="127476" tvg-name="Vibra TV" tvg-logo="https://lh3.googleusercontent.com/-AWhlcwrfjpA/YBq89KsOy0I/AAAAAAAA_pc/7rgIdjHyQbke1LRyLbQk3PAcLUm1SjhrwCK8BGAsYHg/s0/2021-02-03.png", Vibra TV
+https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
+http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" tvg-url="" group-title="",WMS (1080p)
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" tvg-url="" group-title="",TVS (540p)
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
+
+
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",Mi TV TelevisiÃ³n ClÃ¡sica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" tvg-country="DO" tvg-url="" group-title="",Canal AmÃ© 47
@@ -29,26 +62,6 @@ http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",DAN TV (720p)
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="127476" tvg-name="Vibra TV" tvg-logo="https://lh3.googleusercontent.com/-AWhlcwrfjpA/YBq89KsOy0I/AAAAAAAA_pc/7rgIdjHyQbke1LRyLbQk3PAcLUm1SjhrwCK8BGAsYHg/s0/2021-02-03.png", Vibra TV
-https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
-http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
-http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" tvg-url="" group-title="",WMS (1080p)
-https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" tvg-url="" group-title="",TVS (540p)
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" tvg-url="" group-title="Education",NASA TV Media (720p)
@@ -61,14 +74,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/I6dpjRg.jpg" tvg-url="" group-title="",Navarra TV
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="" group-title="",Action Movies
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/VdLvmDt.png" tvg-url="" group-title="",Canal Once Internacional
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="" group-title="",Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="" group-title="",Family Movies
-https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" tvg-url="" group-title="",Moods
 https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
