@@ -80,6 +80,10 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/VdLvmDt.png" tvg-url="" group-title="",Canal Once Internacional
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",WOW! TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" tvg-url="" group-title="",Moods
 https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/DFjN26b.jpg" tvg-url="" group-title="",Humanity
@@ -92,6 +96,23 @@ https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/RHqiy4Z.png" tvg-url="" group-title="",The Pet Collective
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VLWDHGs.png" tvg-url="" group-title="Classic",TVS Classic Movies (480p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" tvg-url="" group-title="Movies",TVS Drive In Movie (360p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" tvg-url="" group-title="Family",TVS Family Channel (360p)
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lHvWCyV.jpg" tvg-url="" group-title="Comedy",TVS Comedy Network (480p)
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" tvg-url="" group-title="Movies",TVS Drive In Movie (360p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" tvg-url="" group-title="Classic",TVS Nostalgia Movies (480p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+
 
 
 
@@ -215,6 +236,8 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Tropical
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial" tvg-country="US" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" tvg-url="" group-title="Music",La Mega Mundial (720p)
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
