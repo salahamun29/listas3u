@@ -99,6 +99,8 @@ https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/VJyUVQ2.png" tvg-url="" group-title="",Football daily
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CqAhL91.png" tvg-url="" group-title="",MAVTV Motor Sports
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" tvg-url="" group-title="",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -121,12 +123,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="80281" tvg-name="Canal 4 Posadas" tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png", Canal 4 Posadas
-https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="80279" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png", Canal Nueve TV
-https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="106258" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" tvg-url="" group-title="",Amuse Animation
 https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/oPnzAPC.png" tvg-url="" group-title="",Galxy TV
@@ -138,14 +134,29 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 
 #EXTINF:****canales de tv de musica***
-#EXTINF:-1 tvg-id="113074" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - CHAU Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 ,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="113074" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Baladas
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Conciertos Live
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Pop
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Retro
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Top 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Tropical
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1, M2O TV Music
@@ -205,6 +216,8 @@ https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" tvg-url="" group-title="",Loop Country
 https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/O3JGxU2.jpg" tvg-url="" group-title="Music",Mas Cumbia TV
+https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" tvg-country="VE" tvg-url="" group-title="",Promar TV
