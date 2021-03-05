@@ -1,7 +1,19 @@
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",Mi TV TelevisiÃ³n ClÃ¡sica
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QT78nTj.png" tvg-url="" group-title="",Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="CR" tvg-url="" group-title="",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Movies",AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" tvg-country="DO" tvg-url="" group-title="",Canal AmÃ© 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",DAN TV (720p)
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="" group-title="",Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="" group-title="",Comedy Movies
@@ -11,8 +23,8 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/oMXfdkV.png" tvg-url="" group-title="",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" tvg-url="" group-title="",WMS (1080p)
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
 
 
@@ -24,11 +36,7 @@ http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
 http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" tvg-url="" group-title="",WMS (1080p)
-https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
@@ -38,10 +46,6 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",Mi TV TelevisiÃ³n ClÃ¡sica
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" tvg-country="DO" tvg-url="" group-title="",Canal AmÃ© 47
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-id="80292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
@@ -63,16 +67,12 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?Playl
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",AXN
 http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",DAN TV (720p)
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" tvg-url="" group-title="Education",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/dWNxCqp.png" tvg-url="" group-title="",Tele Drama
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" tvg-url="" group-title="",TV3 Catalunya
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="113070" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/I6dpjRg.jpg" tvg-url="" group-title="",Navarra TV
