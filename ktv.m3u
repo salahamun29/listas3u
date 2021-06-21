@@ -10,6 +10,9 @@ http://186.101.216.211:8000/play/a03m
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCPasto.co" tvg-name="CNC Pasto" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="",CNC Pasto (540p)
 http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
+#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="News",Noticias Caracol (720p)
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
 
 
 
