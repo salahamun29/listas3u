@@ -237,6 +237,11 @@ http://186.101.216.211:8000/play/a03m
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCPasto.co" tvg-name="CNC Pasto" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="",CNC Pasto (540p)
 http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2.co" tvg-name="Canal 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="",Canal 2 [Not 24/7]
+https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports +
+http://186.101.216.211:8000/play/g07j
+
 
 
 
