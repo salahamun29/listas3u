@@ -92,6 +92,9 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 #EXTINF:-1 tvg-id="BeXtremeTVLima.pe" tvg-name="BeXtreme TV (Lima)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="Local",BeXtreme TV (Lima) (1080p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
+#EXTINF:-1 tvg-id="101TeleAntequera.es" tvg-name="101 Tele Antequera" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="Music",101 Tele Antequera
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+
 
 
 
@@ -240,6 +243,8 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 https://live1.presstv.com/live/hispan.m3u8
 #EXTINF:-1 , canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",24 Horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="News",Noticias Caracol (720p)
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
