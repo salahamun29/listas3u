@@ -50,6 +50,10 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" tvg-url="" group-title="",TVS (540p)
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+#EXTINF:-1 ,La 1 tvg-logo=”https://camo.githubusercontent.com/31ac95ffcb1d745a194ae05e44b8ca744676c7c3adbb943ecb20d49a0fc18a64/68747470733a2f2f692e696d6775722e636f6d2f4e62657369506e2e706e67”
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 ,La 2 tvg-logo=”https://camo.githubusercontent.com/4ab0f9121aa687b72ad933756d969c657fe9c2e16f4e2e82998bf4ba3fc464a7/68747470733a2f2f692e696d6775722e636f6d2f446d75547744772e706e67”
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 
 
@@ -143,19 +147,20 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" tvg-url="" group-title="Sport",Claro Sports (1080p)
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports
 http://186.101.216.211:8000/play/a0cq
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports +
 http://186.101.216.211:8000/play/g07j
 #EXTINF:-1 ,RTL-TVI	
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" tvg-url="" group-title="Sport",Claro Sports (1080p)
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 ,SBT 
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 ,ALL Sports Brasil	
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 ,ERT Sports tvg-logo=”https://camo.githubusercontent.com/2e1f6cc3fc706d09f65cee188b98d602c03480fdced4e4b06f53939550eb5cb2/68747470733a2f2f692e696d6775722e636f6d2f676562576d41422e706e67”
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="" group-title="",Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
