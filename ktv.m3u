@@ -157,10 +157,15 @@ http://186.101.216.211:8000/play/g07j
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
 #EXTINF:-1 ,SBT 
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 ,Open tv tvg-logo=”https://camo.githubusercontent.com/d7992194e18bccea278cf9283591627ca3f9ff0e55680de0b12bca275244456e/68747470733a2f2f692e696d6775722e636f6d2f5439394f536e6b2e706e67”
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 ,ALL Sports Brasil	
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 ,ERT Sports tvg-logo=”https://camo.githubusercontent.com/2e1f6cc3fc706d09f65cee188b98d602c03480fdced4e4b06f53939550eb5cb2/68747470733a2f2f692e696d6775722e636f6d2f676562576d41422e706e67”
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 ,ERT Sports 2 tvg-logo=”https://camo.githubusercontent.com/2e1f6cc3fc706d09f65cee188b98d602c03480fdced4e4b06f53939550eb5cb2/68747470733a2f2f692e696d6775722e636f6d2f676562576d41422e706e67”
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="" group-title="",Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
