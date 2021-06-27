@@ -101,8 +101,8 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="BigName.fr" tvg-name="Big Name" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="",Big Name (720p)
+https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" tvg-url="" group-title="Education",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/dWNxCqp.png" tvg-url="" group-title="",Tele Drama
