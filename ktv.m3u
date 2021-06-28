@@ -314,6 +314,11 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 ,Pequeradio TV tvg-logo=”https://graph.facebook.com/Pequeradio/picture?width=200&height=200”
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Beano TV" tvg-logo = "https://i.imgur.com/XvBi1Ou.png" group-title = "UK", Beano TV
+https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "TVMAS" tvg-logo = "https://i.imgur.com/h8Fv80L.png" group-title = "MÉXICO", TVMAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+
 
 
 
