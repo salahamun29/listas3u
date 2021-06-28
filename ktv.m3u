@@ -246,12 +246,17 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Canal 1
 http://186.101.216.211:8000/play/cuno
+#EXTINF:-1 ,Señal Colombia tvg-logo=”https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200”
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="",Canal Caracol
 http://186.101.216.211:8000/play/a08z
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Entertainment",Canal RCN
 http://186.101.216.211:8000/play/a09k
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="",Canal Capital
 http://186.101.216.211:8000/play/a03m
+#EXTINF:-1 ,Telepacifico Colombia tvg-logo=”https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200”
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanalCNCMedellin.co" tvg-name="Canal CNC MedellÃ­n" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" group-title="",Canal CNC MedellÃ­n (720p)
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCPasto.co" tvg-name="CNC Pasto" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="",CNC Pasto (540p)
@@ -307,6 +312,9 @@ https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 ,Pequeradio TV tvg-logo=”https://graph.facebook.com/Pequeradio/picture?width=200&height=200”
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
 
 
 
