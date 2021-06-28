@@ -134,21 +134,6 @@ https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VLWDHGs.png" tvg-url="" group-title="Classic",TVS Classic Movies (480p)
-https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" tvg-url="" group-title="Movies",TVS Drive In Movie (360p)
-https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" tvg-url="" group-title="Family",TVS Family Channel (360p)
-https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lHvWCyV.jpg" tvg-url="" group-title="Comedy",TVS Comedy Network (480p)
-https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" tvg-url="" group-title="Movies",TVS Drive In Movie (360p)
-https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" tvg-url="" group-title="Classic",TVS Nostalgia Movies (480p)
-https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-
-
-
 
 
 
@@ -165,6 +150,9 @@ https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 ,Open tv tvg-logo=”https://camo.githubusercontent.com/d7992194e18bccea278cf9283591627ca3f9ff0e55680de0b12bca275244456e/68747470733a2f2f692e696d6775722e636f6d2f5439394f536e6b2e706e67”
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 ,EITB tvg-logo=”https://graph.facebook.com/eitb/picture?width=200&height=200”
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
 #EXTINF:-1 ,ALL Sports Brasil	
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 ,ERT Sports tvg-logo=”https://camo.githubusercontent.com/2e1f6cc3fc706d09f65cee188b98d602c03480fdced4e4b06f53939550eb5cb2/68747470733a2f2f692e696d6775722e636f6d2f676562576d41422e706e67”
