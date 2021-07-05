@@ -1,9 +1,6 @@
 #EXTINF:-1 ,zol fm
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="XHASTDT.mx" tvg-name="Azteca America" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="",Azteca America (XHAS-TDT)
-#EXTINF:-1 tvg-id="Canal21.cl" tvg-name="Canal 21" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="",Canal 21 (720p) [Not 24/7]
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
-
 #EXTINF:-1 tvg-id="NovelasDrama.us" tvg-name="Novelas Drama" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="",Pluto TV Novelas Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="MisteriosMedicos.us" tvg-name="Misterios Medicos" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="",Pluto TV Misterios Medicos
@@ -12,7 +9,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="",Babyfirst
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-name="Canal Catorce" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="",Canal Catorce (720p)
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal4televisio.es" tvg-name="Canal4 televisiÃ³" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=320&height=320" group-title="",Canal4 televisiÃ³ (1080p)
+http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1 tvg-id="SercanoTV.hn" tvg-name="Sercano TV" tvg-country="HN" tvg-language="Spanish" tvg-logo="" group-title="",Sercano TV (720p)
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 
