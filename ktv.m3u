@@ -4,7 +4,7 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:********canales colombia******
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Canal 1
 http://186.101.216.211:8000/play/cuno
-#EXTINF:-1 ,Señal Colombia tvg-logo=”https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200”
+#EXTINF:-1 ,Señal Colombia tvg-logo=””
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="",Canal Caracol
 http://186.101.216.211:8000/play/a08z
