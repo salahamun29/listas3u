@@ -217,6 +217,9 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 
 
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200" group-title="AndalucÃ­a" tvg-name="Sal TV",Sal TV
+https://www.tdtchannels.com/stream/saltv.m3u8
+
 
 
 
@@ -296,6 +299,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeClasico.us" tvg-name="Pluto TV Anime Clasico" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Animation",Pluto TV Anime ClÃ¡sico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="",Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
 
 
 
@@ -426,7 +431,8 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8
 https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/O3JGxU2.jpg" tvg-url="" group-title="Music",Mas Cumbia TV
 https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
-
+#EXTINF:-1 tvg-id="ColosalTV.co" tvg-name="Colosal TV" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Colosal TV (720p)
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" tvg-country="VE" tvg-url="" group-title="",Promar TV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
