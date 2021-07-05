@@ -1,5 +1,7 @@
-#EXTINF:********canales colombia******
+#EXTINF:-1 ,zol fm
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
+#EXTINF:********canales colombia******
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Canal 1
 http://186.101.216.211:8000/play/cuno
 #EXTINF:-1 ,Señal Colombia tvg-logo=”https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200”
