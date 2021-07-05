@@ -1,6 +1,5 @@
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.mi-television.com/img/logo.png" tvg-country="UNSORTED" tvg-url="" group-title="",Mi TV Television Clasica
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QT78nTj.png" tvg-url="" group-title="",Ready TV
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QT78nTj.png" tvg-url="" group-title="",Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="CR" tvg-url="" group-title="",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
