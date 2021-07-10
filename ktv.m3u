@@ -6,7 +6,6 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyMovies.es" tvg-name="Comedy Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="",Comedy Movies (720p)
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="" group-title="",Family Movies
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/oMXfdkV.png" tvg-url="" group-title="",TV Shows
@@ -56,22 +55,14 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="PH.do" tvg-name="PH" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="",PH (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
-http://tv.romanatv42.com/hls/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" tvg-url="" group-title="",TVS (540p)
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-#EXTINF:-1 ,La 1 tvg-logo=”https://camo.githubusercontent.com/31ac95ffcb1d745a194ae05e44b8ca744676c7c3adbb943ecb20d49a0fc18a64/68747470733a2f2f692e696d6775722e636f6d2f4e62657369506e2e706e67”
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 ,La 2 tvg-logo=”https://camo.githubusercontent.com/4ab0f9121aa687b72ad933756d969c657fe9c2e16f4e2e82998bf4ba3fc464a7/68747470733a2f2f692e696d6775722e636f6d2f446d75547744772e706e67”
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="Microvision10.do" tvg-name="Microvision 10" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="",Microvision 10 (720p)
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
+http://tv.romanatv42.com/hls/live.m3u8
 
 
 
@@ -118,7 +109,7 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 
 
-
+#EXTINF:****canales miscelaneos***
 #EXTINF:-1 tvg-id="BigName.fr" tvg-name="Big Name" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="",Big Name (720p)
 https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" tvg-url="" group-title="Education",NASA TV Media (720p)
@@ -127,8 +118,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="113070" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/I6dpjRg.jpg" tvg-url="" group-title="",Navarra TV
-https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/VdLvmDt.png" tvg-url="" group-title="",Canal Once Internacional
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="AndalucÃ­a" tvg-name="BailÃ©n TV",BailÃ©n TV
@@ -183,7 +172,6 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m
 #EXTINF:-1 tvg-id="MMATV.fr" tvg-name="MMA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="",MMA TV (720p)
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" tvg-url="" group-title="Local",EITB (360p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="",ETB 1 (720p)
@@ -233,9 +221,6 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (SD) [Not 24/7]
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
-
-
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200" group-title="AndalucÃ­a" tvg-name="Sal TV",Sal TV
 https://www.tdtchannels.com/stream/saltv.m3u8
 
@@ -391,6 +376,8 @@ https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 tvg-id="T5Satelital.ar" tvg-name="T5 Satelital" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg" group-title="",T5 Satelital (540p)
 https://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/I6dpjRg.jpg" tvg-url="" group-title="",Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 
 
 
