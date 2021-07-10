@@ -91,6 +91,8 @@ http://186.101.216.211:8000/play/a09k
 http://186.101.216.211:8000/play/a03m
 #EXTINF:-1 ,Telepacifico Colombia tvg-logo=”https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200”
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="",Suram TV (1080p)
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 #EXTINF:-1 tvg-id="LATAMTV.tv" tvg-name="LATAM TV" tvg-country="CO" tvg-language="Spanish;English" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" group-title="",LATAM TV (BogotÃ ) (540p)
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-id="CanalCNCMedellin.co" tvg-name="Canal CNC MedellÃ­n" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" group-title="",Canal CNC MedellÃ­n (720p)
