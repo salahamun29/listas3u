@@ -157,6 +157,7 @@ https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m
 
 
 
+#EXTINF:****canales deportes***
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" tvg-url="" group-title="Sport",Claro Sports (1080p)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
@@ -317,7 +318,10 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 #EXTINF:****canales entrenimineto***
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-
+#EXTINF:-1 tvg-id="TelecostaEscuintla.gt" tvg-name="Telecosta Escuintla" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="",Telecosta Escuintla
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Local",Telefe Rosario (720p)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="ChacoTV.ar" tvg-name="Chaco TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title="Local",Chaco TV (720p)
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="",Chacra TV (480p)
