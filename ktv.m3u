@@ -355,6 +355,9 @@ https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="PlanetaKids.es" tvg-name="Planeta Kids" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CMRkI5N.jpg" group-title="",Planeta Kids (720p)
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SupertoonsTV.es" tvg-name="Supertoons TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="",Supertoons TV (720p)
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 
