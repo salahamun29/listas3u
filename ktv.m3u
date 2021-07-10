@@ -289,6 +289,8 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 
 
 #EXTINF:****canales entrenimineto***
+#EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-name="Thema TelevisiÃ³n" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" group-title="",Thema TelevisiÃ³n (La Serena) (720p)
+https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="TelecostaEscuintla.gt" tvg-name="Telecosta Escuintla" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="",Telecosta Escuintla
