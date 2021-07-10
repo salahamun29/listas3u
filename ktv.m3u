@@ -386,6 +386,11 @@ https://www.tdtchannels.com/stream/saltv.m3u8
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="",People are Awesome (720p)
 https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 tvg-id="247RetroTV.us" tvg-name="247 Retro TV" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Classic",247 Retro TV
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+
 
 
 
