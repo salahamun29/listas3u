@@ -347,6 +347,8 @@ http://azxtv.com/hls/stream.m3u8
 https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-name="Chicos IPe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Family",Chicos IPe [Not 24/7]
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-id="PlanetaKids.es" tvg-name="Planeta Kids" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CMRkI5N.jpg" group-title="",Planeta Kids (720p)
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
