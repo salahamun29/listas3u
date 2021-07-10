@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="",Action Movies (720p)
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ComediaMadeinSpain.us" tvg-name="Comedia Made in Spain" tvg-country="US" tvg-language="" tvg-logo="" group-title="",Comedia Made in Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f1abce155a03d0007718834&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="" group-title="",Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="" group-title="",Comedy Movies
