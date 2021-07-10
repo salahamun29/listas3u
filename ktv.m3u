@@ -315,6 +315,8 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 
 
 #EXTINF:****canales entrenimineto***
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
 #EXTINF:-1 tvg-id="ChacoTV.ar" tvg-name="Chaco TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title="Local",Chaco TV (720p)
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
@@ -396,6 +398,7 @@ https://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
 
 
 
+#EXTINF:****canales internacionales***
 
 #EXTINF:-1 ,RTL-TVI	
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
