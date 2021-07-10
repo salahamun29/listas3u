@@ -55,6 +55,8 @@ http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TropicalTVPuertoMaldonado.pe" tvg-name="Tropical TV (Puerto Maldonado)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotropical105.7fm/picture?width=320&height=320" group-title="Local",Tropical TV (Puerto Maldonado) [Not 24/7]
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
 
 
@@ -286,6 +288,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "TVMAS" tvg-logo = "https://i.imgur.com/h8Fv80L.png" group-title = "MÉXICO", TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="TVMÃS (XHGV-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="",TVMÃS (XHGV-TDT)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 
 
 #EXTINF:****canales entrenimineto***
@@ -379,6 +383,9 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://www.tdtchannels.com/stream/saltv.m3u8
 #EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="TelefÃ³rmula" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" group-title="",TelefÃ³rmula
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVisiÃ³n" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="",TicaVisiÃ³n (720p)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
 
 
 
