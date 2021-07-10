@@ -13,6 +13,8 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyMovies.es" tvg-name="Comedy Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="",Comedy Movies (720p)
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="" group-title="",Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:********canal cine******
@@ -47,6 +49,9 @@ http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Microvision.do" tvg-name="Microvision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="",Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
 http://tv.romanatv42.com/hls/live.m3u8
 
@@ -60,6 +65,9 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 ,La 2 tvg-logo=”https://camo.githubusercontent.com/4ab0f9121aa687b72ad933756d969c657fe9c2e16f4e2e82998bf4ba3fc464a7/68747470733a2f2f692e696d6775722e636f6d2f446d75547744772e706e67”
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-id="Microvision10.do" tvg-name="Microvision 10" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="",Microvision 10 (720p)
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+
 
 
 
@@ -84,6 +92,8 @@ https://iptv-all.lanesh4d0w.codes/latam
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCPasto.co" tvg-name="CNC Pasto" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="",CNC Pasto (540p)
 http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
+#EXTINF:-1 tvg-id="MarinaStereo.co" tvg-name="Marina Stereo" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="",Marina Stereo (720p)
+https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.co" tvg-name="Canal 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="",Canal 2 [Not 24/7]
 https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports +
@@ -105,9 +115,15 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CUATRO4TVVALLUXA.es" tvg-name="CUATRO 4 TV VALL UXA" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUVLq8nJbqLUY6jVbJvX0VMaoj1HVYu-OKg&usqp=CAU" group-title="",CUATRO 4 TV VALL UXA
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1 tvg-id="LogosTV.es" tvg-name="Logos TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="",Logos TV (720p)
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
 
 #EXTINF:-1 tvg-id="LA7.es" tvg-name="LA7" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/rtvcyl/picture?width=320&height=320" group-title="",LA7
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 tvg-id="XHDTVTDT.mx" tvg-name="Milenio TelevisiÃ³n" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="",Milenio TelevisiÃ³n (XHDTV-TDT)
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
+#EXTINF:-1 tvg-id="MisionELTV.do" tvg-name="Mision ELTV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-OiAyNltHK1c/XoR4TuBHe4I/AAAAAAAAszg/d3NIH9pHptsJ75DDyIGuGjq9cVO-of7kgCLcBGAsYHQ/s200/misioneltvlogo.png" group-title="",Mision ELTV (360p)
+https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-name="Canal Catorce" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="",Canal Catorce (720p)
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
@@ -221,10 +237,10 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 ,ERT Sports 2 tvg-logo=”https://camo.githubusercontent.com/2e1f6cc3fc706d09f65cee188b98d602c03480fdced4e4b06f53939550eb5cb2/68747470733a2f2f692e696d6775722e636f6d2f676562576d41422e706e67”
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 tvg-id="MMATV.fr" tvg-name="MMA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="",MMA TV (720p)
+https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="" group-title="",Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" tvg-url="" group-title="Local",EITB (360p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="",ETB 1 (720p)
@@ -454,6 +470,8 @@ https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-name="TelemÃºsica TV" tvg-country="CO" tvg-language="" tvg-logo="https://i.imgur.com/bwp5lST.png" group-title="Music",TelemÃºsica TV
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-name="Latido_Music" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5PzrxYz.png" group-title="Music",Latido Music (1080p)
+https://vidaprimo-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/RAtVhO4.jpg" tvg-url="" group-title="Music",Electro Anthems (US)
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
