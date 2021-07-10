@@ -51,6 +51,8 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Microvision.do" tvg-name="Microvision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="",Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+#EXTINF:-1 tvg-id="PH.do" tvg-name="PH" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="",PH (720p)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
 http://tv.romanatv42.com/hls/live.m3u8
