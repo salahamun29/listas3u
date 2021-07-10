@@ -502,6 +502,8 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 https://vidaprimo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LatidoMusic.us" tvg-name="Latido_Music" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5PzrxYz.png" group-title="Music",Latido Music (1080p)
 https://vidaprimo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="",Telemicro (720p)
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/RAtVhO4.jpg" tvg-url="" group-title="Music",Electro Anthems (US)
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
