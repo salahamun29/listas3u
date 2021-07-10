@@ -31,8 +31,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-id="5RTv.ar" tvg-name="5RTv" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" tvg-url="" group-title="",WMS (1080p)
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
@@ -41,8 +39,6 @@ http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="127476" tvg-name="Vibra TV" tvg-logo="https://lh3.googleusercontent.com/-AWhlcwrfjpA/YBq89KsOy0I/AAAAAAAA_pc/7rgIdjHyQbke1LRyLbQk3PAcLUm1SjhrwCK8BGAsYHg/s0/2021-02-03.png", Vibra TV
-https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
@@ -294,6 +290,8 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Local",Telefe Rosario (720p)
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 tvg-id="5RTv.ar" tvg-name="5RTv" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="ChacoTV.ar" tvg-name="Chaco TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title="Local",Chaco TV (720p)
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="",Chacra TV (480p)
