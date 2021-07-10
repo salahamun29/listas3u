@@ -15,6 +15,9 @@ https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="" group-title="",Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="",Action Movies (720p)
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:********canal cine******
@@ -131,6 +134,8 @@ https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-id="24TVCulturalesPeru.pe" tvg-name="24 TV Culturales (Peru)" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Culture",24 TV Culturales (Peru) [Not 24/7]
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+#EXTINF:-1 tvg-id="RoccoTV.cl" tvg-name="Rocco TV" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="",Rocco TV (Coyhaique) (240p) [Not 24/7]
+http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4televisio.es" tvg-name="Canal4 televisiÃ³" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=320&height=320" group-title="",Canal4 televisiÃ³ (1080p)
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
@@ -172,9 +177,6 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 #EXTINF:-1 tvg-id="101TeleAntequera.es" tvg-name="101 Tele Antequera" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="Music",101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-#EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="",Action Movies (720p)
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
 
 
 
