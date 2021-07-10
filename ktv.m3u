@@ -85,8 +85,8 @@ http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
 #EXTINF:-1 tvg-id="MarinaStereo.co" tvg-name="Marina Stereo" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="",Marina Stereo (720p)
 https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2.co" tvg-name="Canal 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="",Canal 2 [Not 24/7]
-https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="",Teleislas (480p)
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports +
 http://186.101.216.211:8000/play/g07j
 #EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
@@ -333,6 +333,8 @@ http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1 tvg-id="SercanoTV.hn" tvg-name="Sercano TV" tvg-country="HN" tvg-language="Spanish" tvg-logo="" group-title="",Sercano TV (720p)
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefuturoCanal23.do" tvg-name="Telefuturo Canal 23" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="",Telefuturo Canal 23 (720p)
+http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 
 #EXTINF:-1 tvg-id="80292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
@@ -373,6 +375,9 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200" group-title="AndalucÃ­a" tvg-name="Sal TV",Sal TV
 https://www.tdtchannels.com/stream/saltv.m3u8
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="TelefÃ³rmula" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" group-title="",TelefÃ³rmula
+https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
 
 
 
