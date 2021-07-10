@@ -34,13 +34,14 @@ https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="127476" tvg-name="Vibra TV" tvg-logo="https://lh3.googleusercontent.com/-AWhlcwrfjpA/YBq89KsOy0I/AAAAAAAA_pc/7rgIdjHyQbke1LRyLbQk3PAcLUm1SjhrwCK8BGAsYHg/s0/2021-02-03.png", Vibra TV
 https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
 http://tv.romanatv42.com/hls/live.m3u8
 
@@ -110,8 +111,6 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-name="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="General",BHTV (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="80660" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-JtAR5L5DJTM/Xx4FT5BIoII/AAAAAAAA3hI/MrIvjOkijt0tl7brflyUUTS_gBsJiGxOgCK8BGAsYHg/s0/2020-07-26.png", Canal 2 Mar del Plata
