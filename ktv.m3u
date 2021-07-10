@@ -46,6 +46,9 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
 http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -322,8 +325,6 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="80292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
-https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-name="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="General",BHTV (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="80660" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-JtAR5L5DJTM/Xx4FT5BIoII/AAAAAAAA3hI/MrIvjOkijt0tl7brflyUUTS_gBsJiGxOgCK8BGAsYHg/s0/2020-07-26.png", Canal 2 Mar del Plata
