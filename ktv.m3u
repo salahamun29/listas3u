@@ -526,6 +526,8 @@ https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-name="La Mega Mundial" tvg-country="US" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="Music",La Mega Mundial (720p)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 tvg-id="UMAGTVTelevision.cl" tvg-name="UMAGTV TelevisiÃ³n" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://www.novasur.cl/sites/default/files/web_umag_tv.png" group-title="",UMAGTV TelevisiÃ³n (Punta Arenas) (720p)
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" tvg-country="VE" tvg-url="" group-title="",Promar TV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
