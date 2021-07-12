@@ -2,11 +2,7 @@
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ComediaMadeinSpain.us" tvg-name="Comedia Made in Spain" tvg-country="US" tvg-language="" tvg-logo="" group-title="",Comedia Made in Spain
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f1abce155a03d0007718834&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="" group-title="",Action Movies
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="" group-title="",Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyMovies.es" tvg-name="Comedy Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="",Comedy Movies (720p)
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="" group-title="",Family Movies
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -16,8 +12,6 @@ https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="" group-title="",Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="",Action Movies (720p)
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNatureEspanol.us" tvg-name="Love Nature Espanol" tvg-country="US" tvg-language="" tvg-logo="" group-title="",Love Nature Espanol
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 
@@ -32,8 +26,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" tvg-country="DO" tvg-url="" group-title="",Canal AmÃ© 47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
-#EXTINF:-1 tvg-id="LancelotTelevision.es" tvg-name="Lancelot TelevisiÃ³n" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" group-title="",Lancelot TelevisiÃ³n (360p)
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
@@ -54,6 +46,13 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalTVPuertoMaldonado.pe" tvg-name="Tropical TV (Puerto Maldonado)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotropical105.7fm/picture?width=320&height=320" group-title="Local",Tropical TV (Puerto Maldonado) [Not 24/7]
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="COSMOTVHD.es" tvg-name="COSMO TV HD" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="",COSMO TV HD
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
+
+#EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" group-title="Local",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1 tvg-id="LancelotTelevision.es" tvg-name="Lancelot TelevisiÃ³n" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" group-title="",Lancelot TelevisiÃ³n (360p)
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 
 
 
@@ -236,6 +235,13 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="News",Noticias Caracol (720p)
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="News",Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en EspaÃ±ol" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="News",Euronews en EspaÃ±ol (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW EspaÃ±ol" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",DW EspaÃ±ol (400p)
+http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
+
 
 
 
@@ -384,6 +390,9 @@ https://www.tdtchannels.com/stream/saltv.m3u8
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVisiÃ³n" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="",TicaVisiÃ³n (720p)
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Carivision.do" tvg-name="Carivision" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hufTLyq.png" group-title="",Carivision (480p)
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
+
 
 
 
