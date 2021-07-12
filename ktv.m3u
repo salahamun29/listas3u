@@ -50,8 +50,6 @@ http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="",Vallevision (720p)
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.do" tvg-name="TVS" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="",TVS (540p)
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalTVPuertoMaldonado.pe" tvg-name="Tropical TV (Puerto Maldonado)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotropical105.7fm/picture?width=320&height=320" group-title="Local",Tropical TV (Puerto Maldonado) [Not 24/7]
@@ -291,12 +289,10 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 
 
 #EXTINF:****canales entrenimineto***
-#EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-name="Thema TelevisiÃ³n" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" group-title="",Thema TelevisiÃ³n (La Serena) (720p)
-https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="",Vallevision (720p)
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-#EXTINF:-1 tvg-id="TelecostaEscuintla.gt" tvg-name="Telecosta Escuintla" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="",Telecosta Escuintla
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Local",Telefe Rosario (720p)
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="5RTv.ar" tvg-name="5RTv" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
@@ -514,7 +510,8 @@ https://vidaprimo-plex.amagi.tv/playlist.m3u8
 https://vidaprimo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/teleritmo-logo.png" group-title="",Teleritmo (Monterrey) (480p)
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-
+#EXTINF:-1 tvg-id="TelecostaEscuintla.gt" tvg-name="Telecosta Escuintla" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="",Telecosta Escuintla
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/RAtVhO4.jpg" tvg-url="" group-title="Music",Electro Anthems (US)
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Ta05IbG.jpg" tvg-url="" group-title="",CafeTV24
