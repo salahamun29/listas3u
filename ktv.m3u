@@ -48,7 +48,8 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="COSMOTVHD.es" tvg-name="COSMO TV HD" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="",COSMO TV HD
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
-
+#EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-name="Claro Cinema" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="Movies",Claro Cinema (576p)
+http://209.91.213.10:8099/play/a00v
 #EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" group-title="Local",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="LancelotTelevision.es" tvg-name="Lancelot TelevisiÃ³n" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" group-title="",Lancelot TelevisiÃ³n (360p)
