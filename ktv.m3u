@@ -327,6 +327,9 @@ https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 http://186.101.216.211:8000/play/a0dv
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - ENTRETENIMIENTO:HBTV Ticavision (Costa Rica)
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord8.do" tvg-name="Telenord 8" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="",Telenord 8 (1080p)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-name="Canal Catorce" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="",Canal Catorce (720p)
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
