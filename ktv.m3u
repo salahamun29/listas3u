@@ -228,39 +228,15 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
-http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/teleritmo-logo.png" group-title="",Teleritmo (Monterrey) (480p)
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="TelecostaEscuintla.gt" tvg-name="Telecosta Escuintla" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="",Telecosta Escuintla
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/RAtVhO4.jpg" tvg-url="" group-title="Music",Electro Anthems (US)
-https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Ta05IbG.jpg" tvg-url="" group-title="",CafeTV24
-https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" tvg-url="" group-title="",Loop Country
-https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/O3JGxU2.jpg" tvg-url="" group-title="Music",Mas Cumbia TV
-https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
 #EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-name="La Mega Mundial" tvg-country="US" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="Music",La Mega Mundial (720p)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-id="UMAGTVTelevision.cl" tvg-name="UMAGTV TelevisiÃ³n" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://www.novasur.cl/sites/default/files/web_umag_tv.png" group-title="",UMAGTV TelevisiÃ³n (Punta Arenas) (720p)
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" tvg-country="VE" tvg-url="" group-title="",Promar TV
-http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="113073" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Plus TV Chile",Retro Plus TV Chile EN
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 #EXTINF:-1 tvg-id="81555" tvg-name="Quatro TV" tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png", Quatro TV
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - CHAU Tv
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="ArgentinÃ­sima Satelital" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="",ArgentinÃ­sima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 
 
