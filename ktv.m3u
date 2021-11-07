@@ -1,20 +1,3 @@
-#EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="",Action Movies (720p)
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ComediaMadeinSpain.us" tvg-name="Comedia Made in Spain" tvg-country="US" tvg-language="" tvg-logo="" group-title="",Comedia Made in Spain
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f1abce155a03d0007718834&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="" group-title="",Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="" group-title="",Family Movies
-https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/oMXfdkV.png" tvg-url="" group-title="",TV Shows
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyMovies.es" tvg-name="Comedy Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="",Comedy Movies (720p)
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="" group-title="",Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNatureEspanol.us" tvg-name="Love Nature Espanol" tvg-country="US" tvg-language="" tvg-logo="" group-title="",Love Nature Espanol
-https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
-
 
 
 
@@ -60,35 +43,6 @@ http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 
 
 
-
-
-#EXTINF:********canales colombia******
-#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Canal 1
-http://186.101.216.211:8000/play/cuno
-#EXTINF:-1 ,Señal Colombia tvg-logo=””
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="",Canal Caracol
-http://186.101.216.211:8000/play/a08z
-#EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Entertainment",Canal RCN
-http://186.101.216.211:8000/play/a09k
-#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="",Canal Capital
-http://186.101.216.211:8000/play/a03m
-#EXTINF:-1 ,Telepacifico Colombia tvg-logo=”https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200”
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="",Suram TV (1080p)
-https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
-#EXTINF:-1 tvg-id="LATAMTV.tv" tvg-name="LATAM TV" tvg-country="CO" tvg-language="Spanish;English" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" group-title="",LATAM TV (BogotÃ ) (540p)
-https://iptv-all.lanesh4d0w.codes/latam
-#EXTINF:-1 tvg-id="CanalCNCMedellin.co" tvg-name="Canal CNC MedellÃ­n" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" group-title="",Canal CNC MedellÃ­n (720p)
-http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
-#EXTINF:-1 tvg-id="CNCPasto.co" tvg-name="CNC Pasto" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="",CNC Pasto (540p)
-http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
-#EXTINF:-1 tvg-id="MarinaStereo.co" tvg-name="Marina Stereo" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="",Marina Stereo (720p)
-https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="",Teleislas (480p)
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports +
-http://186.101.216.211:8000/play/g07j
 #EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (ES)",DW Español Ⓢ
