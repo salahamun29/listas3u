@@ -169,12 +169,6 @@ http://186.101.216.211:8000/play/a073
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (HD) [Not 24/7]
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200" group-title="AndalucÃ­a" tvg-name="Sal TV",Sal TV
-https://www.tdtchannels.com/stream/saltv.m3u8
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="TelefÃ³rmula" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" group-title="",TelefÃ³rmula
-https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVisiÃ³n" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="",TicaVisiÃ³n (720p)
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Carivision.do" tvg-name="Carivision" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hufTLyq.png" group-title="",Carivision (480p)
 http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
 
@@ -193,26 +187,11 @@ http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
 
 #EXTINF:****canales internacionales***
 
-#EXTINF:-1 ,RTL-TVI	
-https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="",People are Awesome (720p)
-https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1 tvg-id="247RetroTV.us" tvg-name="247 Retro TV" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Classic",247 Retro TV
-http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanClassics.us" tvg-name="American Classics" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WUAXiq1.png" group-title="Movies",American Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
 #EXTINF:****canales de tv de musica***
 #EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
