@@ -111,12 +111,6 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 ,Pequeradio TV tvg-logo=”https://graph.facebook.com/Pequeradio/picture?width=200&height=200”
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "Beano TV" tvg-logo = "https://i.imgur.com/XvBi1Ou.png" group-title = "UK", Beano TV
-https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "TVMAS" tvg-logo = "https://i.imgur.com/h8Fv80L.png" group-title = "MÉXICO", TVMAS
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 
 
 #EXTINF:****canales entrenimineto***
@@ -128,14 +122,7 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="5RTv.ar" tvg-name="5RTv" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-name="Chaco TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title="Local",Chaco TV (720p)
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="",Chacra TV (480p)
-https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CUATRO4TVVALLUXA.es" tvg-name="CUATRO 4 TV VALL UXA" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUVLq8nJbqLUY6jVbJvX0VMaoj1HVYu-OKg&usqp=CAU" group-title="",CUATRO 4 TV VALL UXA
-https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-#EXTINF:-1 tvg-id="LogosTV.es" tvg-name="Logos TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="",Logos TV (720p)
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
+
 #EXTINF:-1 tvg-id="SuperTV55Santiago.do" tvg-name="Super TV 55 (Santiago)" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="",Super TV 55 (Santiago) (720p)
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
