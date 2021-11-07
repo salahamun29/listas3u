@@ -214,90 +214,20 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 ,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="113074" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Baladas
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Conciertos Live
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Retro
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Top 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="Music",MIX 24/7 - Tropical
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial" tvg-country="US" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" tvg-url="" group-title="Music",La Mega Mundial (720p)
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AqVdlpz.png" tvg-url="" group-title="",Kiss (576p)
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nn2VfkP.png" tvg-url="" group-title="",Kerrang (576p)
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-country="DO" tvg-url="" group-title="",ONDA TV CANAL 10
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Music",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1, M2O TV Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aBPSij2.png" tvg-country="CO" tvg-url="" group-title="Music",Telemusica
-https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="UK",Afrobeats
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Jis8xic.png" tvg-url="" group-title="",Hot Rock TV
-https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1,California Music Channel www.achoAPPS.com
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,30A Music www.achoAPPS.com
-http://30a-tv.com/music.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IqLT2CC.png" tvg-country="PA" tvg-url="" group-title="",OYE CANAL 7
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yr9M9Kj.png" tvg-country="CR" tvg-url="" group-title="",Multimedios Costa Rica
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-country="DO" tvg-url="" group-title="",Romana TV Canal 42
-http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url="" group-title="Music",30A Music
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="",1HD Music TV
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" tvg-country="DO" tvg-url="" group-title="",Super TV 55 Santiago
-https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EuroLatina TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",EuroLatina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" tvg-url="" group-title="Music",La Karibeña
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-id="107163" tvg-name="Canal Coop" tvg-logo="https://lh3.googleusercontent.com/-aeAlzPyDNX8/Xx4DOKMNpHI/AAAAAAAA3gc/iN2_EZ7gS4URvFD9IB5tjQ6uJ_Qd7rPZwCK8BGAsYHg/s0/2020-07-26.png", Canal Coop
-https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="100567" tvg-name="El Eco TV" tvg-logo="https://lh3.googleusercontent.com/-s7Lrg1AhjRA/XrYORW8wrKI/AAAAAAAA0iU/5dZ8Epc-I1Momc6KYwA2rt0AwnwhdVKowCK8BGAsYHg/s0/2020-05-08.png", El Eco TV
-https://5f93e494d5906.streamlock.net:443/elecotv/elecotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/jxY0QSw.png" tvg-url="" group-title="Music",80's Loop (US)
-https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/MFbbITI.jpg" tvg-url="" group-title="Music",80s Party (US)
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/jxY0QSw.png" tvg-url="" group-title="Music",90's Loop (US)
-https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-name="Tierra MÃ­a TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="",Tierra MÃ­a TV (480p)
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-name="TelemÃºsica TV" tvg-country="CO" tvg-language="" tvg-logo="https://i.imgur.com/bwp5lST.png" group-title="Music",TelemÃºsica TV
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-name="Latido_Music" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5PzrxYz.png" group-title="Music",Latido Music (1080p)
-https://vidaprimo-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-name="Latido_Music" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5PzrxYz.png" group-title="Music",Latido Music (1080p)
-https://vidaprimo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/teleritmo-logo.png" group-title="",Teleritmo (Monterrey) (480p)
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="TelecostaEscuintla.gt" tvg-name="Telecosta Escuintla" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="",Telecosta Escuintla
