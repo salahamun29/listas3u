@@ -53,12 +53,6 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 #EXTINF:-1 ,ALL Sports Brasil	
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 ,ERT Sports tvg-logo=”https://camo.githubusercontent.com/2e1f6cc3fc706d09f65cee188b98d602c03480fdced4e4b06f53939550eb5cb2/68747470733a2f2f692e696d6775722e636f6d2f676562576d41422e706e67”
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 ,ERT Sports 2 tvg-logo=”https://camo.githubusercontent.com/2e1f6cc3fc706d09f65cee188b98d602c03480fdced4e4b06f53939550eb5cb2/68747470733a2f2f692e696d6775722e636f6d2f676562576d41422e706e67”
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
-#EXTINF:-1 tvg-id="MMATV.fr" tvg-name="MMA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="",MMA TV (720p)
-https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" tvg-url="" group-title="Local",EITB (360p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
@@ -70,10 +64,7 @@ https://events3-crtvg.flumotion.com/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/oitvOug.png" tvg-url="" group-title="",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-url="" group-title="Sport",Adventure Sports TV (360p)
-https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/UbUZw9E.png" tvg-url="" group-title="",ACC
-https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AjRCYwR.png" tvg-url="" group-title="",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/VJyUVQ2.png" tvg-url="" group-title="",Football daily
