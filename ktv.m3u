@@ -137,7 +137,8 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="5RTv.ar" tvg-name="5RTv" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
+#EXTINF:-1 tvg-id="ElConflecto.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mMRKee.png" group-title="Series",El Conflecto (480p)
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 #EXTINF:-1 tvg-id="SuperTV55Santiago.do" tvg-name="Super TV 55 (Santiago)" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="",Super TV 55 (Santiago) (720p)
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
@@ -188,7 +189,8 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="Carivision.do" tvg-name="Carivision" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hufTLyq.png" group-title="",Carivision (480p)
 http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
-
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="",Canela TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 
 
 
@@ -239,6 +241,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="3ABNPraiseHimMusicChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t6Ydwqg.png" group-title="Religious",3ABN Praise Him Music Channel (720p) [Not 24/7]
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 tvg-id="BluegrassMusic4U.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="Music",Bluegrass Music 4U (360p)
+https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 
 
 
