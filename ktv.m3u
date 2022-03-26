@@ -224,6 +224,8 @@ http://appavang.flashmediacast.com:1935/Appavang/livestream/palylist.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-id="AmericanClassics.us" tvg-name="American Classics" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WUAXiq1.png" group-title="Movies",American Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WrYEcXp.png" tvg-country="US" tvg-url="" group-title="",Young Hollywood
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 
 #EXTINF:****canales de tv de musica***
 #EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
@@ -247,8 +249,7 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 
-#EXTINF:-1,TVG Musigal www.achoAPPS.com
-http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-name="La Mega Mundial" tvg-country="US" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="Music",La Mega Mundial (720p)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Plus TV Chile",Retro Plus TV Chile EN
