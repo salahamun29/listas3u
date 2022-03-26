@@ -21,6 +21,9 @@ http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="ElConflecto.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mMRKee.png" group-title="Series",El Conflecto (480p)
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+#EXTINF:-1 tvg-id="ElConflecto.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mMRKee.png" group-title="Series",El Conflecto (480p)
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+
 
 
 
