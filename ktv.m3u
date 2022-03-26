@@ -7,8 +7,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",DAN TV (720p)
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Microvision.do" tvg-name="Microvision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="",Microvision
