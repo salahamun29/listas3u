@@ -21,14 +21,17 @@ http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Microvision10.do" tvg-name="Microvision 10" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="",Microvision 10 (720p)
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png" group-title="Lo Mas Visto", CSTV * | CL
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" tvg-url="" group-title="",Romana TV Canal 42
 http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="LancelotTelevision.es" tvg-name="Lancelot TelevisiÃ³n" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" group-title="",Lancelot TelevisiÃ³n (360p)
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-
-#EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png", CINE.AR * | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png" group-title="Canales de Cine", Pu�al Tv
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-name="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="General",BHTV (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
@@ -130,7 +133,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-
+#EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png" group-title="Lo Mas Visto", Cloud Server Kids  | CL
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:****canales entrenimineto***
 #EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="",Vallevision (720p)
