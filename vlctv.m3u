@@ -52,6 +52,8 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AjRCYwR.png" tvg-url="" group-title="",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/oitvOug.png" tvg-url="" group-title="",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 
 #EXTINF:********noticias******
 #EXTINF:-1,CGTN  (Opt-1) www.achoAPPS.com
