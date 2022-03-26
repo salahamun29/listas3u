@@ -16,18 +16,27 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="AndalucÃ­a" tvg-name="BailÃ©n TV",BailÃ©n TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 
-
+#EXTINF:****canales cine***
+#EXTINF:-1 tvg-id="5RTv.ar" tvg-name="5RTv" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-id="ElConflecto.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mMRKee.png" group-title="Series",El Conflecto (480p)
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 
 
 
 
 #EXTINF:****entreteniento ***
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="",Canela TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="AndalucÃ­a" tvg-name="BailÃ©n TV",BailÃ©n TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" tvg-url="" group-title="Education",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 Open tv tvg-logo="https://camo.githubusercontent.com/d7992194e18bccea278cf9283591627ca3f9ff0e55680de0b12bca275244456e/68747470733a2f2f692e696d6775722e636f6d2f5439394f536e6b2e706e67”
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LA7.es" tvg-name="LA7" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/rtvcyl/picture?width=320&height=320" group-title="",LA7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+
 
 #EXTINF:****deportes ***
 #EXTINF:-1 ,EITB tvg-logo=”https://graph.facebook.com/eitb/picture?width=200&height=200”
