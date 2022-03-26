@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="106774" tvg-name="Canal Vision Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Vision Dorada
 #EXTINF:-1,Wow TV www.achoAPPS.com
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,Telemilenio Canal 50 www.achoAPPS.com
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="",Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",DAN TV (720p)
