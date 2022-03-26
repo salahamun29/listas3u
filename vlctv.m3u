@@ -19,8 +19,39 @@ http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 
 
 
+
+
 #EXTINF:****entreteniento ***
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="AndalucÃ­a" tvg-name="BailÃ©n TV",BailÃ©n TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" tvg-url="" group-title="Education",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 Open tv tvg-logo="https://camo.githubusercontent.com/d7992194e18bccea278cf9283591627ca3f9ff0e55680de0b12bca275244456e/68747470733a2f2f692e696d6775722e636f6d2f5439394f536e6b2e706e67”
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+
+#EXTINF:****deportes ***
+#EXTINF:-1 ,EITB tvg-logo=”https://graph.facebook.com/eitb/picture?width=200&height=200”
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 ,ALL Sports Brasil	
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVG 2" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",tvG2 (720p)
+https://events3-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WEM9B83.png" tvg-url="" group-title="",Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/oitvOug.png" tvg-url="" group-title="",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AjRCYwR.png" tvg-url="" group-title="",Edge Sport
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:********noticias******
+#EXTINF:-1,CGTN  (Opt-1) www.achoAPPS.com
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="News",Noticias Caracol (720p)
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+
+
+#EXTINF:****canales Infantiles***
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" tvg-url="" group-title="",CocoRo
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+
