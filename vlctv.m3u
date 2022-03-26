@@ -36,7 +36,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LA7.es" tvg-name="LA7" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/rtvcyl/picture?width=320&height=320" group-title="",LA7
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/I6dpjRg.jpg" tvg-url="" group-title="",Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 
 #EXTINF:****deportes ***
 #EXTINF:-1 ,EITB tvg-logo=”https://graph.facebook.com/eitb/picture?width=200&height=200”
@@ -57,7 +58,8 @@ https://edgesport-samsungus.amagi.tv/playlist.m3u8
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="News",Noticias Caracol (720p)
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WrYEcXp.png" tvg-country="US" tvg-url="" group-title="",Young Hollywood
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 
 
 #EXTINF:****canales Infantiles***
