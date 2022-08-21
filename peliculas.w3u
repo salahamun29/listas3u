@@ -1,5 +1,25 @@
 #EXTM3U
-#EXTINF: -1, *** pelicula clasicas ***
+#EXTINF:-1 group-title="PELICULAS", Cuando nos Conocimos 
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1 group-title="PELICULAS", Deadpool 
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1 group-title="PELICULAS", Intensamente 
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 group-title="PELICULAS", JIGSAW VIII 
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 group-title="PELICULAS", La Forma del Agua SUBTITULADO 
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+EXTINF:-1 group-title="PELICULAS", La Fuerza De La Ilusion 
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 group-title="PELICULAS", Next Gen 
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1 group-title="PELICULAS", Nosotros Los Nobles 
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="PELICULAS", Redada Asesina 
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+EXTINF:-1 group-title="PELICULAS", Terminus 
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF: -1, pelicula clasicas 
 https://ia801309.us.archive.org/32/items/CuentaAtrs_20151209/Cuenta%20atr%C3%A1s.mp4
 #EXTINF: -1, El cartero pablo neruda tvg-id = "films", 
 https://archive.org/download/ElCarteroYPabloNerudaIlPostinoEnEspanol/El%20Cartero%20y%20Pablo%20Neruda%20%28Il%20postiol-SD.mp4
