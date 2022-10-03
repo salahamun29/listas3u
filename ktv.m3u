@@ -217,10 +217,8 @@ https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:********radio ******
-#EXTINF:-1 tvg-logo="mega.png" group-title="colombia" audio-track="col",Estación Progresista
-http://stream.zeno.fm/bpoyxvdhmmrtv.m3u
-#EXTINF:-1 tvg-logo="mega.png" group-title="colombia" audio-track="col",radio muysca Xubchasgagua rock music
-
+#EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",Science and Technology
+http://stream.zeno.fm/gjgmji2u0gauv.m3u
 
 
 
