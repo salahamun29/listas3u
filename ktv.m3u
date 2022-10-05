@@ -216,9 +216,13 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,canal rock music
+https://raw.githubusercontent.com/softwaretro/listas3u/master/rock.m3u
 #EXTINF:********radio ******
 #EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",Science and Technology
 http://stream.zeno.fm/gjgmji2u0gauv.m3u
+#EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",Science and Technology
+http://stream.zeno.fm/mfny1d4okmjuv.m3u
 
 
 
